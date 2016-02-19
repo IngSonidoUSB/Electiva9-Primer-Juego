@@ -63,6 +63,7 @@
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleButton.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
+     <Compile Include="Assets\NIvel 6\Grupo.cs" />
      <Compile Include="Assets\Scripts\AnimationController.cs" />
      <Compile Include="Assets\Scripts\MariposaScript.cs" />
      <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
