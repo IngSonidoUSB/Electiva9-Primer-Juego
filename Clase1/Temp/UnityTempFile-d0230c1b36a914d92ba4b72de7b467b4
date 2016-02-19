@@ -6,6 +6,8 @@
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-r:'/Applications/Unity/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll'
 -define:UNITY_5_3_2
 -define:UNITY_5_3
 -define:UNITY_5
@@ -93,6 +95,7 @@
 'Assets/CNControls/Scripts/Controllers/SimpleJoystick.cs'
 'Assets/CNControls/Scripts/Controllers/Touchpad.cs'
 'Assets/NIvel 6/Grupo.cs'
+'Assets/Nivel 4/Grupo 4.cs'
 'Assets/Scripts/AnimationController.cs'
 'Assets/Scripts/MariposaScript.cs'
 'Assets/Scripts/MariposaSpawner.cs'
