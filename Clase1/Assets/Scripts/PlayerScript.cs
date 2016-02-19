@@ -45,8 +45,9 @@ public class PlayerScript : MonoBehaviour {
 	void OnCollisionExit(Collision col) {
 		if (col.gameObject.tag == "Piso") {
 			JumpFlag = false;
+			animator.SetBool ("Direction", true);
 		}
-		animator.SetBool ("Direction", true);
+
 	}
 
 }
