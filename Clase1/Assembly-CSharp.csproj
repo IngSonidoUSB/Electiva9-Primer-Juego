@@ -45,10 +45,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CNControls\Examples\Scenes\2D\Scripts\Camera2DFollow.cs" />
-     <Compile Include="Assets\CNControls\Examples\Scenes\2D\Scripts\Platformer2DUserControl.cs" />
-     <Compile Include="Assets\CNControls\Examples\Scenes\2D\Scripts\PlatformerCharacter2D.cs" />
-     <Compile Include="Assets\CNControls\Examples\Scenes\2D\Scripts\Restarter.cs" />
      <Compile Include="Assets\CNControls\Scripts\CnInputSystem\CnInputManager.cs" />
      <Compile Include="Assets\CNControls\Scripts\CnInputSystem\VirtualAxis.cs" />
      <Compile Include="Assets\CNControls\Scripts\CnInputSystem\VirtualButton.cs" />
@@ -64,7 +60,11 @@
      <Compile Include="Assets\CNControls\Scripts\Controllers\SimpleJoystick.cs" />
      <Compile Include="Assets\CNControls\Scripts\Controllers\Touchpad.cs" />
      <Compile Include="Assets\NIvel 6\Grupo.cs" />
+     <Compile Include="Assets\Nivel 1\Grupo_1.cs" />
+     <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
+     <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
+     <Compile Include="Assets\Nivel 5\Grupo_5.cs" />
      <Compile Include="Assets\Scripts\AnimationController.cs" />
      <Compile Include="Assets\Scripts\MariposaScript.cs" />
      <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
