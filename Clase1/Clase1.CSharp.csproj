@@ -58,12 +58,6 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Networking">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -94,7 +88,7 @@
     <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
     <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
     <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
-    <Compile Include="Assets\Nivel 5\Grupo_5.cs" />
+    <Compile Include="Assets\Nivel 5\script\Grupo_5.cs" />
     <Compile Include="Assets\Scripts\AnimationController.cs" />
     <Compile Include="Assets\Scripts\MariposaScript.cs" />
     <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
