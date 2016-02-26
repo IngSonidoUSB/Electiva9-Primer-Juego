@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: fbb85ee71b9c9564facf6a5a38fc3dfb
+timeCreated: 1456500998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: community_image_1387783718_0
+    21300002: community_image_1387783718_1
+    21300004: community_image_1387783718_2
+    21300006: community_image_1387783718_3
+    21300008: community_image_1387783718_4
+    21300010: community_image_1387783718_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: community_image_1387783718_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: -27.5}
+        - {x: 34.5, y: -19.5}
+        - {x: 54.5, y: 14.5}
+        - {x: 54.5, y: 35.5}
+        - {x: 52.5, y: 38.5}
+        - {x: -54.5, y: 38.5}
+        - {x: -54.5, y: -20.5}
+        - {x: -22.5, y: -38.5}
+        - {x: 7.5, y: -38.5}
+        - {x: 24.5, y: -35.5}
+        - {x: 28.5, y: -32.5}
+        - {x: 28.5, y: -29.5}
+    - name: community_image_1387783718_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 103
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 33.5}
+        - {x: -74, y: -20.5}
+        - {x: -69, y: -28.5}
+        - {x: -35, y: -33.5}
+        - {x: 57, y: -33.5}
+        - {x: 74, y: -10.5}
+        - {x: 74, y: 13.5}
+        - {x: 58, y: 33.5}
+    - name: community_image_1387783718_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 86
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 45}
+        - {x: -53, y: -45}
+        - {x: -9, y: -45}
+        - {x: -5, y: -31}
+        - {x: -5, y: -29}
+        - {x: -7, y: -27}
+        - {x: -13, y: -19}
+        - {x: -9, y: -22}
+        - {x: -4, y: -30}
+        - {x: -4, y: -32}
+        - {x: -1, y: -39}
+        - {x: 5, y: -45}
+        - {x: 53, y: -45}
+        - {x: 53, y: -4}
+        - {x: 1, y: 45}
+      - - {x: 2, y: 4}
+        - {x: 5, y: 5}
+        - {x: 5, y: 8}
+        - {x: 2, y: 9}
+        - {x: 0, y: 7}
+    - name: community_image_1387783718_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: community_image_1387783718_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 128
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 14}
+        - {x: 1, y: 17}
+        - {x: -60, y: 17}
+        - {x: -64, y: 16}
+        - {x: -64, y: 1}
+        - {x: -55, y: -17}
+        - {x: 64, y: -17}
+        - {x: 64, y: -2}
+        - {x: 43, y: 11}
+    - name: community_image_1387783718_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 7
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
