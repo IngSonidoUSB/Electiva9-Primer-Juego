@@ -58,6 +58,14 @@ public class PlayerScript : MonoBehaviour {
 		}
 
 	}
+
+	void OnTriggerEnter(Collider col)
+	{
+		if (col.gameObject.tag == "Mariposa") {
+			//print ("Works");
+			Destroy (col.gameObject);
+		}
+	}
 	void Direction () {
 		if (CnInputManager.GetAxis("Horizontal") > 0)
 		{

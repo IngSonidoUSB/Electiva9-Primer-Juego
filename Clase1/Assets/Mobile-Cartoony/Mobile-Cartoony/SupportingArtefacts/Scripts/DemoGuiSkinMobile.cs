@@ -23,10 +23,11 @@ public class DemoGuiSkinMobile : MonoBehaviour {
 	/// Unity GUI hook.
 	/// </summary>
 	void OnGUI() {
-		if (!hasUpdatedGui) {
+		/*if (!hasUpdatedGui) {
 			ColoredGUISkinMobile.Instance.UpdateGuiColors(primaryColors[0], secondaryColors[0]);
 			hasUpdatedGui = true;
-		}
+		}*/
+		ColoredGUISkinMobile.Instance.UpdateGuiColors(primaryColors[0], secondaryColors[0]);
 		GUI.skin = ColoredGUISkinMobile.Skin;
 		
 		// Window 
