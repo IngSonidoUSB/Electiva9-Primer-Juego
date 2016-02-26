@@ -20,11 +20,11 @@ public class Boton3 : MonoBehaviour {
 	void Update () {
 		
 		if (Input.GetMouseButtonDown (0) && sendnote==true){
-			renderer.material.color = Color.green;
+			GetComponent<Renderer>().material.color = Color.green;
 			StartCoroutine ("Song");
 		}
 		if (Input.GetMouseButtonUp (0) && sendnote==true){
-			renderer.material.color = Color.white;
+			GetComponent<Renderer>().material.color = Color.white;
 			//StopAllCoroutines();
 			StopCoroutine ("Song");
 		}
