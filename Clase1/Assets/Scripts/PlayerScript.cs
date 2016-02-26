@@ -10,26 +10,33 @@ public class PlayerScript : MonoBehaviour {
 	private bool JumpFlag = false;
 	private int Dir;
 	private Animator animator;
+	private Rigidbody rb;
+
+
 
 
 	void Start () {
-
+		
 		animator = this.GetComponent<Animator> ();
-		animator.SetBool ("jumpback", true);
+		rb = GetComponent<Rigidbody> ();
+
 	}
 	// Update is called once per frame
 	void Update () {
 
 		float moveInput = CnInputManager.GetAxis("Horizontal") * Time.deltaTime * 3;
-		//float JumpInput = CnInputManager.GetButtonDown ("Jump");
 
-		//Direction ();
+		Direction ();
+		Jump ();
+
 		transform.position += new Vector3 (moveInput, 0, 0);
-	
+
 		if (CnInputManager.GetButtonDown ("Jump") && JumpFlag) {
 			
 			GetComponent<Rigidbody>().AddForce(new Vector3(0,400,0));
+
 		} 
+
 
 	
 	}
@@ -38,16 +45,51 @@ public class PlayerScript : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Piso") {
 			JumpFlag = true;
-			animator.SetBool ("Direction", false);
 		}
 	}
 
 	void OnCollisionExit(Collision col) {
 		if (col.gameObject.tag == "Piso") {
 			JumpFlag = false;
-			animator.SetBool ("Direction", true);
+			if (!CnInputManager.GetButtonDown ("Jump")) {
+
+
+			} 
 		}
 
 	}
+	void Direction () {
+		if (CnInputManager.GetAxis("Horizontal") > 0)
+		{
+			Dir = 1;
+			transform.localScale =new Vector3(Dir*0.5f, 0.5f, 1);
+
+		}
+		if (CnInputManager.GetAxis("Horizontal") < 0){
+			Dir = -1;
+			transform.localScale =new Vector3(Dir*0.5f, 0.5f, 1);
+		}
+	}
+
+	void Jump () {
+		if (CnInputManager.GetButtonDown ("Jump")) {
+
+			StartCoroutine ("JumpStop");
+		} 
+	}
+
+	IEnumerator JumpStop (){
+		animator.SetInteger ("Jump", 2);
+		yield return new WaitForSeconds (1);
+		animator.SetInteger ("Jump", 0);
+	}
+
+	IEnumerator FallStop (){
+		animator.SetInteger ("Jump", 1);
+		yield return new WaitForSeconds (0.5f);
+		animator.SetInteger ("Jump", 0);
+	}
+
+
 
 }
