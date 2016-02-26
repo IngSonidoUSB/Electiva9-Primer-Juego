@@ -16,7 +16,7 @@ public class MariposaScript : MonoBehaviour {
 	
 	}
 
-	void OnTriggerEnter(Collider col)
+	/*void OnTriggerEnter(Collider col)
 	{
 		if (col.gameObject.tag == "PisoCheck") {
 			//print ("Works");
@@ -24,7 +24,7 @@ public class MariposaScript : MonoBehaviour {
 
 
 		}
-	}
+	}*/
 
 
 }
