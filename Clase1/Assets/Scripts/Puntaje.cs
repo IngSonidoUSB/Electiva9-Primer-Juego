@@ -29,4 +29,10 @@ public class Puntaje : MonoBehaviour {
 
 		}
 	}
+
+	void aumentapuntaje()
+	{
+		Value += 100;
+
+	}
 }

@@ -140,6 +140,7 @@
      <Compile Include="Assets\Scripts\Gui.cs" />
      <Compile Include="Assets\Scripts\MariposaScript.cs" />
      <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
+     <Compile Include="Assets\Scripts\PlayAudio.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\Puntaje.cs" />
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
