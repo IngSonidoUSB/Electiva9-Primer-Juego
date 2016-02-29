@@ -140,6 +140,7 @@
      <Compile Include="Assets\Scripts\Gui.cs" />
      <Compile Include="Assets\Scripts\MariposaScript.cs" />
      <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
+     <Compile Include="Assets\Scripts\Midibridge\Boton3.cs" />
      <Compile Include="Assets\Scripts\Midibridge\MidiBridge.cs" />
      <Compile Include="Assets\Scripts\Midibridge\MidiInput.cs" />
      <Compile Include="Assets\Scripts\Midibridge\MidiOut.cs" />
