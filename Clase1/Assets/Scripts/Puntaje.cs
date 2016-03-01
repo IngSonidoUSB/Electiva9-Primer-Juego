@@ -2,37 +2,30 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class Puntaje : MonoBehaviour {
+public class Puntaje : MonoBehaviour
+{
+    public bool loatrapo = false;
+    private bool antes = false;
 
+    public Text Score;
+    private int Value = 0;
 
-	public Text Score; 
-	private int Value = 0;
+    // Use this for initialization
+    void Start()
+    {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		//Score.text = Value.ToString ();
-	}
+    }
 
-	void OnTriggerEnter(Collider col)
-	{
-		if (col.gameObject.tag == "Mariposa") {
-			//print ("Works");
-			Destroy (col.gameObject);
-			Value -= 100;
-
-
-
-		}
-	}
-
-	void aumentapuntaje()
-	{
-		Value += Value+1;
-
-	}
+    // Update is called once per frame
+    void Update()
+    {
+        Score.text = Value.ToString();
+    }
+    void OnTriggerEnter(Collider col)
+    {
+        if (col.gameObject.tag == "Mariposa")
+        {
+            Value++;
+        }
+    }
 }
