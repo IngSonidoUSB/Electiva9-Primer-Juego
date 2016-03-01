@@ -15,7 +15,7 @@ public class Puntaje : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		Score.text = Value.ToString ();
+		//Score.text = Value.ToString ();
 	}
 
 	void OnTriggerEnter(Collider col)
@@ -32,7 +32,7 @@ public class Puntaje : MonoBehaviour {
 
 	void aumentapuntaje()
 	{
-		Value += 100;
+		Value += Value+1;
 
 	}
 }

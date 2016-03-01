@@ -5,7 +5,7 @@ using CnControls;
 public class MovCat : MonoBehaviour {
 
 
-    public Transform gato;
+    //public Transform gato;
     public float test;
     private bool JumpControl = true;
     private bool JumpFlag = false;
