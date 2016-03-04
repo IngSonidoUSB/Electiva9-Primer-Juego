@@ -135,6 +135,7 @@
      <Compile Include="Assets\Nivel 1\Scripts\Grupo_1.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\Mariposamov.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\Pajaromov.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\catcontrol.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\pajaromoviz.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawn.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaro.cs" />
@@ -144,11 +145,14 @@
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMariposa.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMurcielago.cs" />
+     <Compile Include="Assets\Nivel 5\script\AlrPerro.cs" />
      <Compile Include="Assets\Nivel 5\script\Grupo_5.cs" />
      <Compile Include="Assets\Nivel 5\script\MovCat.cs" />
      <Compile Include="Assets\Nivel 5\script\MovMariposa.cs" />
      <Compile Include="Assets\Nivel 5\script\MovMurcielago.cs" />
      <Compile Include="Assets\Nivel 5\script\MovPerro.cs" />
+     <Compile Include="Assets\Nivel 5\script\gpared.cs" />
+     <Compile Include="Assets\Nivel 5\script\gpiso.cs" />
      <Compile Include="Assets\Nivel 5\script\vidas.cs" />
      <Compile Include="Assets\Scripts\AnimationController.cs" />
      <Compile Include="Assets\Scripts\Gui.cs" />
