@@ -131,7 +131,14 @@
      <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\NIvel 6\Grupo.cs" />
-     <Compile Include="Assets\Nivel 1\Grupo_1.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\ControlDog.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\Grupo_1.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\Mariposamov.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\Pajaromov.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\pajaromoviz.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\spawn.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\spawnpajaro.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\spawnpajaroiz.cs" />
      <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
      <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
@@ -172,7 +179,11 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
+<<<<<<< Updated upstream
  <HintPath>/Users/nathaliabeltranb/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+=======
+ <HintPath>/Users/demianalvearlopuzzo/Documents/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+>>>>>>> Stashed changes
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
