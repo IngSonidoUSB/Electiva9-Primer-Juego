@@ -12,8 +12,18 @@ public class MovMariposa : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        float fallSpeed = 10 * Time.deltaTime;
+        float fallSpeed = 3 * Time.deltaTime;
         transform.position -= new Vector3(0, fallSpeed, 0);
 
+    }
+
+
+    void OnTriggerEnter(Collider col)
+    {
+        if (col.gameObject.tag == "pisodestruir")
+        {
+            //print ("Works");
+            Destroy(this.gameObject);
+        }
     }
 }

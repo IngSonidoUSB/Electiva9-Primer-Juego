@@ -20,7 +20,7 @@ public class AlrMurcielago : MonoBehaviour {
 			SpawnMurcielago();
 			nextMurcielagoTime = Time.time + spawnRate;
 
-			spawnRate *= 5f;
+			spawnRate *= 3f;
 			spawnRate = Mathf.Clamp(spawnRate, 1f, 2f);
 		}
 	}
@@ -28,8 +28,8 @@ public class AlrMurcielago : MonoBehaviour {
 
 	void SpawnMurcielago()
 	{
-		float addxPos = Random.Range(-2f, 2f);
-		Vector3 spawnPos = transform.position + new Vector3(addxPos, 0, 0);
+		float addxPos = Random.Range(-2f, 3f);
+		Vector3 spawnPos = transform.position + new Vector3(0, addxPos, 0);
 		Instantiate(MurcielagoPrefab, spawnPos, Quaternion.identity);
 	}
 
