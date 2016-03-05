@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Puntaje : MonoBehaviour
 {
     public bool loatrapo = false;
-    private bool antes = false;
+    
 
     public Text Score;
     private int Value = 0;
@@ -19,7 +19,7 @@ public class Puntaje : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Score.text = Value.ToString();
+		Score.text = "= " + Value.ToString();
     }
     void OnTriggerEnter(Collider col)
     {

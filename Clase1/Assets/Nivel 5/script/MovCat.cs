@@ -7,7 +7,7 @@ public class MovCat : MonoBehaviour {
 
     //public Transform gato;
     public float test;
-    private bool JumpControl = true;
+    
     private bool JumpFlag = false;
     private int Dir;
     private Animator animator;

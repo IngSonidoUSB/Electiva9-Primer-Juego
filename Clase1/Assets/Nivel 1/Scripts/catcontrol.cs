@@ -6,11 +6,11 @@ public class catcontrol : MonoBehaviour {
 
 	public Transform gato;
 	public float test;
-	private bool JumpControl = true;
+
 	private bool JumpFlag = false;
 	private int Dir;
 	private Animator animator;
-	private Rigidbody2D rb;
+
 
 
 	public AudioClip Cat;
@@ -21,7 +21,7 @@ public class catcontrol : MonoBehaviour {
 	void Start () {
 
 		animator = this.GetComponent<Animator> ();
-		rb = GetComponent<Rigidbody2D> ();
+
 
 		Sound = GetComponent<AudioSource>();
 		Sound.clip = Cat;

@@ -6,11 +6,11 @@ public class PlayerScript : MonoBehaviour {
 
 	public Transform gato;
 	public float test;
-	private bool JumpControl = true;
+
 	private bool JumpFlag = false;
 	private int Dir;
 	private Animator animator;
-	private Rigidbody rb;
+
 
 
 
@@ -18,7 +18,7 @@ public class PlayerScript : MonoBehaviour {
 	void Start () {
 		
 		animator = this.GetComponent<Animator> ();
-		rb = GetComponent<Rigidbody> ();
+
 
 	}
 	// Update is called once per frame

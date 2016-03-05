@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Pajaromov : MonoBehaviour {
 
 	public Text Score; 
-	private int Puntaje = 0;
+
 	private int ba=1;
 	private float vely = 0;
 
