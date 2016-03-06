@@ -19,7 +19,7 @@ public class Mariposamov : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other) 
 	{
-		if( other.gameObject.name.Equals ("piso")){
+		if( other.gameObject.name.Equals ("bot")){
 			Destroy (this.gameObject);
 		}
 

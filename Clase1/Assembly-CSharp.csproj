@@ -137,9 +137,11 @@
      <Compile Include="Assets\Nivel 1\Scripts\Pajaromov.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\catcontrol.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\pajaromoviz.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\score.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawn.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaro.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaroiz.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\tiempo.cs" />
      <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
      <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
@@ -184,7 +186,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>/Users/miguelolivares/Documents/USB/JuegoPrimerCorte/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>/Users/demianalvearlopuzzo/Documents/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
