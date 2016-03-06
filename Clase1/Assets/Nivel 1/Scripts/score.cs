@@ -36,7 +36,7 @@ public class score : MonoBehaviour
 		{
 			Value++;
 
-			if (Value >= 2) {
+			if (Value >= 10) {
 				Sound.PlayOneShot(tigre,1);
 			} else {
 				Sound.PlayOneShot (Cat,1);
