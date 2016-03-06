@@ -8,11 +8,20 @@ public class score : MonoBehaviour
 	private bool antes = false;
 
 	public Text Score;
-	private int Value = 0;
+	public int Value = 0;
+
+	public AudioClip tigre;
+	public AudioClip Cat;
+	public AudioClip CatA;
+	private AudioSource Sound;
+
 
 	// Use this for initialization
 	void Start()
 	{
+		Sound = GetComponent<AudioSource>();
+		Sound.clip = tigre;
+
 
 	}
 
@@ -21,15 +30,22 @@ public class score : MonoBehaviour
 	{
 		Score.text = Value.ToString();
 	}
-	void OnCollisionEnter2D(Collider2D col)
+	void OnTriggerEnter2D(Collider2D col)
 	{
 		if (col.gameObject.tag == "Mariposa")
 		{
 			Value++;
+
+			if (Value >= 2) {
+				Sound.PlayOneShot(tigre,1);
+			} else {
+				Sound.PlayOneShot (Cat,1);
+			}
 		}
 		if (col.gameObject.tag == "pajaro")
 		{
 			Value--;
+			Sound.PlayOneShot (CatA,1);
 			if (Value < 0) {
 				Value = 0;
 			}

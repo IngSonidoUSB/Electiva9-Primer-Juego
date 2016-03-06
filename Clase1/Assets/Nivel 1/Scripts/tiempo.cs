@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class tiempo : MonoBehaviour {
 
 	public Text TimeText;
-	public float Tiempo=120f;
+	private float Tiempo=120f;
 	private int Minutos, segundos;
 
 	// Use this for initialization
