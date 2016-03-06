@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 4fd460b92a788435db3280c3eee497c4
+timeCreated: 1457134056
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clock_0
+    21300002: clock_1
+    21300004: clock_2
+    21300006: clock_3
+    21300008: clock_4
+    21300010: clock_5
+    21300012: clock_6
+    21300014: clock_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: clock_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 46
+        width: 185
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 136.5}
+        - {x: -61.5, y: 136.5}
+        - {x: -76.5, y: 130.5}
+        - {x: -86.5, y: 123.5}
+        - {x: -84.5, y: 103.5}
+        - {x: -78.5, y: 99.5}
+        - {x: -92.5, y: 28.5}
+        - {x: -92.5, y: -20.5}
+        - {x: -81.5, y: -31.5}
+        - {x: -88.5, y: -121.5}
+        - {x: -65.5, y: -136.5}
+        - {x: 54.5, y: -136.5}
+        - {x: 91.5, y: -120.5}
+        - {x: 92.5, y: -111.5}
+        - {x: 92.5, y: 127.5}
+    - name: clock_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 185
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: 22.5}
+        - {x: 81.5, y: 29.5}
+        - {x: 85.5, y: 125.5}
+        - {x: 68.5, y: 136.5}
+        - {x: -83.5, y: 136.5}
+        - {x: -90.5, y: 103.5}
+        - {x: -88.5, y: 29.5}
+        - {x: -92.5, y: 20.5}
+        - {x: -92.5, y: -26.5}
+        - {x: -89.5, y: -31.5}
+        - {x: -89.5, y: -96.5}
+        - {x: -77.5, y: -133.5}
+        - {x: -38.5, y: -136.5}
+        - {x: 46.5, y: -136.5}
+        - {x: 77.5, y: -126.5}
+        - {x: 90.5, y: -117.5}
+        - {x: 92.5, y: -69.5}
+    - name: clock_2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 46
+        width: 185
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: -31.5}
+        - {x: 92.5, y: 26.5}
+        - {x: 81.5, y: 29.5}
+        - {x: 85.5, y: 125.5}
+        - {x: 68.5, y: 136.5}
+        - {x: -83.5, y: 136.5}
+        - {x: -90.5, y: 103.5}
+        - {x: -77.5, y: 99.5}
+        - {x: -92.5, y: 26.5}
+        - {x: -92.5, y: -23.5}
+        - {x: -91.5, y: -27.5}
+        - {x: -89.5, y: -96.5}
+        - {x: -80.5, y: -135.5}
+        - {x: -71.5, y: -136.5}
+        - {x: 62.5, y: -136.5}
+        - {x: 80.5, y: -130.5}
+        - {x: 90.5, y: -98.5}
+        - {x: 91.5, y: -34.5}
+    - name: clock_3
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 46
+        width: 185
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: -31.5}
+        - {x: 92.5, y: 32.5}
+        - {x: 89.5, y: 107.5}
+        - {x: 77.5, y: 136.5}
+        - {x: -68.5, y: 136.5}
+        - {x: -92.5, y: 127.5}
+        - {x: -92.5, y: 116.5}
+        - {x: -84.5, y: 32.5}
+        - {x: -92.5, y: 24.5}
+        - {x: -92.5, y: -26.5}
+        - {x: -85.5, y: -37.5}
+        - {x: -85.5, y: -129.5}
+        - {x: -63.5, y: -135.5}
+        - {x: -51.5, y: -136.5}
+        - {x: 60.5, y: -136.5}
+        - {x: 92.5, y: -122.5}
+        - {x: 92.5, y: -92.5}
+        - {x: 87.5, y: -33.5}
+    - name: clock_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 191
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 57.5}
+        - {x: -58.5, y: 27.5}
+        - {x: -58.5, y: -4.5}
+        - {x: -27.5, y: -57.5}
+        - {x: 16.5, y: -57.5}
+        - {x: 58.5, y: -41.5}
+        - {x: 58.5, y: 47.5}
+        - {x: 34.5, y: 57.5}
+    - name: clock_5
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 191
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 56}
+        - {x: -55, y: 38}
+        - {x: -55, y: 2}
+        - {x: -15, y: -56}
+        - {x: 17, y: -56}
+        - {x: 55, y: -43}
+        - {x: 55, y: 30}
+        - {x: 21, y: 56}
+    - name: clock_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 56
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 56}
+        - {x: -56.5, y: 28}
+        - {x: -56.5, y: 9}
+        - {x: -55.5, y: 7}
+        - {x: -19.5, y: -56}
+        - {x: 36.5, y: -56}
+        - {x: 56.5, y: -25}
+        - {x: 56.5, y: 33}
+        - {x: 26.5, y: 56}
+    - name: clock_7
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 56
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 56}
+        - {x: -41.5, y: 55}
+        - {x: -57.5, y: 35}
+        - {x: -57.5, y: 2}
+        - {x: -27.5, y: -56}
+        - {x: 21.5, y: -56}
+        - {x: 57.5, y: -21}
+        - {x: 57.5, y: 39}
+        - {x: 47.5, y: 56}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

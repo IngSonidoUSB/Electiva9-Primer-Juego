@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class MariposaScript : MonoBehaviour {
 
 	public Text Score; 
-	private int Puntaje = 0;
+
 	
 	// Update is called once per frame
 	void Update () {
