@@ -4,10 +4,11 @@ using System.Collections;
 public class ControlDog : MonoBehaviour {
 	public float vel=-3f;
 	//AudioSource Audio;
-	public AudioClip ladrar;
+
 	Rigidbody2D doggy;
 	//Animator Animh;
-
+	public AudioClip perrin;
+	private AudioSource Sound;
 	 
 
 	// Use this for initialization
@@ -15,6 +16,10 @@ public class ControlDog : MonoBehaviour {
 		doggy=(Rigidbody2D)GetComponent<Rigidbody2D>();
 		//Animh=GetComponent<Animator>();
 		//Audio = GetComponent<AudioSource> ();
+
+		Sound = GetComponent<AudioSource>();
+		Sound.clip = perrin;
+
 
 	}
 	// Update is called once per frame
@@ -38,6 +43,10 @@ public class ControlDog : MonoBehaviour {
 		var s = transform.localScale;
 		s.x = s.x * (-1);
 		transform.localScale = s;
+
+		if (vel < 0) {
+			Sound.Play ();
+		}
 
 	}
 

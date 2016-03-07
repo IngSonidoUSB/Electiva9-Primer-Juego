@@ -13,18 +13,12 @@ public class catcontrol : MonoBehaviour {
 
 
 
-	public AudioClip Cat;
-	private AudioSource Sound;
-
-
-
 	void Start () {
 
 		animator = this.GetComponent<Animator> ();
 
 
-		Sound = GetComponent<AudioSource>();
-		Sound.clip = Cat;
+
 
 	}
 	// Update is called once per frame
@@ -72,9 +66,11 @@ public class catcontrol : MonoBehaviour {
 		if (col.gameObject.tag == "Mariposa") {
 			//print ("Works");
 			Destroy (col.gameObject);
-			Sound.Play ();
 		}
-
+		if (col.gameObject.tag == "perro") {
+			//print ("Works");
+			print("Game Over");
+		}
 
 
 
