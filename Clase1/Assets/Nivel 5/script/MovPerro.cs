@@ -6,13 +6,13 @@ public class MovPerro : MonoBehaviour {
     // Use this for initialization
     void Start () {
         Dir = -1;
-        transform.localScale = new Vector3(Dir*2f, 2f, 2f);
+        transform.localScale = new Vector3(Dir*3f, 3f, 3f);
     }
 	
 	// Update is called once per frame
 	void Update () {
 
-        float fallSpeed = 2 * Time.deltaTime;
+        float fallSpeed = 3 * Time.deltaTime;
         transform.position -= new Vector3(fallSpeed, 0, 0);
 
     }

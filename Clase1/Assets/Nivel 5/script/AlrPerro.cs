@@ -19,12 +19,20 @@ public class AlrPerro : MonoBehaviour {
     {
         if (nextPerroTime < Time.time)
         {
-
+            Spawnperro();
             nextPerroTime = Time.time + spawnRate;
 
-            spawnRate *= 5f;
-            spawnRate = Mathf.Clamp(spawnRate, 1f, 2f);
+            spawnRate *= 5;
+            spawnRate = Mathf.Clamp(spawnRate, 5f, 9f);
         }
+    }
+
+
+    void Spawnperro()
+    {
+       
+        Vector3 spawnPos = transform.position + new Vector3(0, 0, 0);
+        Instantiate(PerroPrefab, spawnPos, Quaternion.identity);
     }
 
 

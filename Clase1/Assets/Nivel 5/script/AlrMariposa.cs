@@ -5,17 +5,19 @@ public class AlrMariposa : MonoBehaviour {
 
 
     public Transform MariposaPrefab;
-
+   
     public float nextMariposaTime = 10f;
     private float spawnRate = 1.5f;
 
     // Use this for initialization
     void Start () {
+        
 
     }
 	
 	// Update is called once per frame
 	void Update () {
+        
         if (nextMariposaTime < Time.time)
         {
             SpawnMariposa();
@@ -25,11 +27,13 @@ public class AlrMariposa : MonoBehaviour {
             spawnRate = Mathf.Clamp(spawnRate, 1f, 2f);
         }
     }
+    
 
 
     void SpawnMariposa()
     {
         float addxPos = Random.Range(-10f, 10f);
+        
         Vector3 spawnPos = transform.position + new Vector3(addxPos, 0, 0);
         Instantiate(MariposaPrefab, spawnPos, Quaternion.identity);
     }

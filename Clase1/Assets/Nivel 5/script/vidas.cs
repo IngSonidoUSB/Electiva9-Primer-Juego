@@ -21,6 +21,7 @@ public class vidas : MonoBehaviour
             VIDAS--;
 
             anterior = true;
+            //SeEstrello = false;
             
             if (VIDAS == 2)
             {
@@ -39,25 +40,27 @@ public class vidas : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter(Collision col)
+    void OnTriggerEnter(Collider col)
     {
 
-        if (col.gameObject.tag == "DogRun_0")
+        if (col.gameObject.tag == "perro" )
         {
+            print("works");
             SeEstrello = true;
-            
+            anterior = false;
+
         }
     }
 
-    void OnCollisionExit(Collision col)
+  /* void OnCollisionExit(Collision col)
     {
-        if (col.gameObject.tag == "DogRun_0")
+        if (col.gameObject.tag == "perro")
         {
             SeEstrello = false;
             anterior = false;
         }
-    }
-
+    }*/
+   
 
         
 

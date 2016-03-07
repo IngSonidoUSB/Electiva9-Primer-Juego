@@ -1,0 +1,1814 @@
+fileFormatVersion: 2
+guid: 784d5d45caddf984b84e5ac1b757b271
+timeCreated: 1457095470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wolf_0
+    21300002: Wolf_1
+    21300004: Wolf_2
+    21300006: Wolf_3
+    21300008: Wolf_4
+    21300010: Wolf_5
+    21300012: Wolf_6
+    21300014: Wolf_7
+    21300016: Wolf_8
+    21300018: Wolf_9
+    21300020: Wolf_10
+    21300022: Wolf_11
+    21300024: Wolf_12
+    21300026: Wolf_13
+    21300028: Wolf_14
+    21300030: Wolf_15
+    21300032: Wolf_16
+    21300034: Wolf_17
+    21300036: Wolf_18
+    21300038: Wolf_19
+    21300040: Wolf_20
+    21300042: Wolf_21
+    21300044: Wolf_22
+    21300046: Wolf_23
+    21300048: Wolf_24
+    21300050: Wolf_25
+    21300052: Wolf_26
+    21300054: Wolf_27
+    21300056: Wolf_28
+    21300058: Wolf_29
+    21300060: Wolf_30
+    21300062: Wolf_31
+    21300064: Wolf_32
+    21300066: Wolf_33
+    21300068: Wolf_34
+    21300070: Wolf_35
+    21300072: Wolf_36
+    21300074: Wolf_37
+    21300076: Wolf_38
+    21300078: Wolf_39
+    21300080: Wolf_40
+    21300082: Wolf_41
+    21300084: Wolf_42
+    21300086: Wolf_43
+    21300088: Wolf_44
+    21300090: Wolf_45
+    21300092: Wolf_46
+    21300094: Wolf_47
+    21300096: Wolf_48
+    21300098: Wolf_49
+    21300100: Wolf_50
+    21300102: Wolf_51
+    21300104: Wolf_52
+    21300106: Wolf_53
+    21300108: Wolf_54
+    21300110: Wolf_55
+    21300112: Wolf_56
+    21300114: Wolf_57
+    21300116: Wolf_58
+    21300118: Wolf_59
+    21300120: Wolf_60
+    21300122: Wolf_61
+    21300124: Wolf_62
+    21300126: Wolf_63
+    21300128: Wolf_64
+    21300130: Wolf_65
+    21300132: Wolf_66
+    21300134: Wolf_67
+    21300136: Wolf_68
+    21300138: Wolf_69
+    21300140: Wolf_70
+    21300142: Wolf_71
+    21300144: Wolf_72
+    21300146: Wolf_73
+    21300148: Wolf_74
+    21300150: Wolf_75
+    21300152: Wolf_76
+    21300154: Wolf_77
+    21300156: Wolf_78
+    21300158: Wolf_79
+    21300160: Wolf_80
+    21300162: Wolf_81
+    21300164: Wolf_82
+    21300166: Wolf_83
+    21300168: Wolf_84
+    21300170: Wolf_85
+    21300172: Wolf_86
+    21300174: Wolf_87
+    21300176: Wolf_88
+    21300178: Wolf_89
+    21300180: Wolf_90
+    21300182: Wolf_91
+    21300184: Wolf_92
+    21300186: Wolf_93
+    21300188: Wolf_94
+    21300190: Wolf_95
+    21300192: Wolf_96
+    21300194: Wolf_97
+    21300196: Wolf_98
+    21300198: Wolf_99
+    21300200: Wolf_100
+    21300202: Wolf_101
+    21300204: Wolf_102
+    21300206: Wolf_103
+    21300208: Wolf_104
+    21300210: Wolf_105
+    21300212: Wolf_106
+    21300214: Wolf_107
+    21300216: Wolf_108
+    21300218: Wolf_109
+    21300220: Wolf_110
+    21300222: Wolf_111
+    21300224: Wolf_112
+    21300226: Wolf_113
+    21300228: Wolf_114
+    21300230: Wolf_115
+    21300232: Wolf_116
+    21300234: Wolf_117
+    21300236: Wolf_118
+    21300238: Wolf_119
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 464
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 29}
+        - {x: -33.5, y: 26}
+        - {x: -37.5, y: 14}
+        - {x: -37.5, y: -29}
+        - {x: 33.5, y: -29}
+        - {x: 37.5, y: -27}
+        - {x: 37.5, y: 17}
+        - {x: 33.5, y: 29}
+    - name: Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 464
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 29}
+        - {x: 16.5, y: 29}
+        - {x: -25.5, y: 15}
+        - {x: -37.5, y: 0}
+        - {x: -37.5, y: -28}
+        - {x: -36.5, y: -29}
+        - {x: 29.5, y: -29}
+        - {x: 37.5, y: -26}
+        - {x: 37.5, y: 25}
+    - name: Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 464
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -17}
+        - {x: 28.5, y: -11}
+        - {x: 37.5, y: 2}
+        - {x: 37.5, y: 18}
+        - {x: 36.5, y: 21}
+        - {x: 34.5, y: 29}
+        - {x: 9.5, y: 29}
+        - {x: -26.5, y: 17}
+        - {x: -37.5, y: 4}
+        - {x: -37.5, y: -29}
+        - {x: 26.5, y: -29}
+        - {x: 35.5, y: -21}
+        - {x: 37.5, y: -19}
+    - name: Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 464
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 29.5}
+        - {x: -23.5, y: 15.5}
+        - {x: -33.5, y: 6.5}
+        - {x: -37.5, y: -2.5}
+        - {x: -38.5, y: -4.5}
+        - {x: -38.5, y: -29.5}
+        - {x: 38.5, y: -29.5}
+        - {x: 38.5, y: 27.5}
+        - {x: 36.5, y: 29.5}
+    - name: Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 464
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 29.5}
+        - {x: -32, y: 19.5}
+        - {x: -40, y: -2.5}
+        - {x: -40, y: -19.5}
+        - {x: -36, y: -19.5}
+        - {x: -37, y: -19.5}
+        - {x: -40, y: -21.5}
+        - {x: -40, y: -29.5}
+        - {x: 35, y: -29.5}
+        - {x: 40, y: -28.5}
+        - {x: 40, y: 25.5}
+        - {x: 36, y: 29.5}
+    - name: Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 464
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 29.5}
+        - {x: -29, y: 14.5}
+        - {x: -40, y: -3.5}
+        - {x: -40, y: -17.5}
+        - {x: -38, y: -19.5}
+        - {x: -36, y: -19.5}
+        - {x: -37, y: -19.5}
+        - {x: -40, y: -21.5}
+        - {x: -40, y: -29.5}
+        - {x: 30, y: -29.5}
+        - {x: 40, y: -26.5}
+        - {x: 40, y: 18.5}
+        - {x: 33, y: 29.5}
+    - name: Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 464
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 29.5}
+        - {x: 5, y: 29.5}
+        - {x: -32, y: 19.5}
+        - {x: -40, y: -2.5}
+        - {x: -40, y: -19.5}
+        - {x: -36, y: -19.5}
+        - {x: -37, y: -19.5}
+        - {x: -40, y: -21.5}
+        - {x: -40, y: -29.5}
+        - {x: 37, y: -29.5}
+        - {x: 40, y: -28.5}
+        - {x: 40, y: 26.5}
+    - name: Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 387
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 25}
+        - {x: -20.5, y: 23}
+        - {x: -41.5, y: 15}
+        - {x: -45.5, y: 7}
+        - {x: -45.5, y: -25}
+        - {x: 45.5, y: -25}
+        - {x: 45.5, y: 21}
+        - {x: 36.5, y: 25}
+    - name: Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 387
+        width: 100
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 22.5}
+        - {x: -28, y: 22.5}
+        - {x: -50, y: 15.5}
+        - {x: -50, y: -4.5}
+        - {x: -40, y: -8.5}
+        - {x: -50, y: -14.5}
+        - {x: -50, y: -20.5}
+        - {x: -38, y: -22.5}
+        - {x: 40, y: -22.5}
+        - {x: 50, y: -16.5}
+        - {x: 50, y: 21.5}
+    - name: Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 387
+        width: 103
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 23}
+        - {x: -51.5, y: 13}
+        - {x: -51.5, y: -23}
+        - {x: 51.5, y: -23}
+        - {x: 51.5, y: 22}
+        - {x: 45.5, y: 23}
+    - name: Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 387
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 23.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -51.5, y: 5.5}
+        - {x: -51.5, y: -20.5}
+        - {x: -44.5, y: -23.5}
+        - {x: 36.5, y: -23.5}
+        - {x: 47.5, y: -19.5}
+        - {x: 51.5, y: -15.5}
+        - {x: 51.5, y: 15.5}
+    - name: Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 387
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: -18.5}
+        - {x: 45.5, y: -13.5}
+        - {x: 34.5, y: -11.5}
+        - {x: 45.5, y: 1.5}
+        - {x: 45.5, y: 19.5}
+        - {x: 32.5, y: 25.5}
+        - {x: -13.5, y: 25.5}
+        - {x: -24.5, y: 23.5}
+        - {x: -45.5, y: 0.5}
+        - {x: -45.5, y: -11.5}
+        - {x: -36.5, y: -11.5}
+        - {x: -45.5, y: -18.5}
+        - {x: -45.5, y: -22.5}
+        - {x: -36.5, y: -22.5}
+        - {x: -29.5, y: -25.5}
+        - {x: 31.5, y: -25.5}
+    - name: Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 393
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 393
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 290
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 36}
+        - {x: 36, y: 41}
+        - {x: 8, y: 41}
+        - {x: -24, y: 10}
+        - {x: -42, y: -15}
+        - {x: -42, y: -39}
+        - {x: -38, y: -41}
+        - {x: 9, y: -41}
+        - {x: 34, y: -38}
+        - {x: 35, y: -35}
+        - {x: 35, y: -33}
+        - {x: 42, y: -39}
+    - name: Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 345
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 39.5}
+        - {x: -12, y: 27.5}
+        - {x: -37, y: -20.5}
+        - {x: -37, y: -38.5}
+        - {x: -32, y: -39.5}
+        - {x: 8, y: -39.5}
+        - {x: 37, y: -31.5}
+        - {x: 37, y: -3.5}
+        - {x: 33, y: 24.5}
+        - {x: 21, y: 39.5}
+      - - {x: -12, y: 25.5}
+        - {x: -11, y: 22.5}
+        - {x: -8, y: 22.5}
+        - {x: -5, y: 25.5}
+        - {x: -5, y: 27.5}
+        - {x: -8, y: 28.5}
+      - - {x: 29, y: 32.5}
+        - {x: 28, y: 30.5}
+        - {x: 29, y: 27.5}
+        - {x: 36, y: 25.5}
+        - {x: 37, y: 25.5}
+        - {x: 37, y: 31.5}
+        - {x: 33, y: 32.5}
+    - name: Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 288
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 33.5}
+        - {x: 6.5, y: 30.5}
+        - {x: -42.5, y: -1.5}
+        - {x: -42.5, y: -33.5}
+        - {x: 42.5, y: -33.5}
+        - {x: 42.5, y: 33.5}
+    - name: Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 349
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 349
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 339
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 339
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 319
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 319
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 319
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 316
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 319
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 319
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 319
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 316
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 319
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 287
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 25.5}
+        - {x: -29, y: 19.5}
+        - {x: -46, y: 4.5}
+        - {x: -46, y: -25.5}
+        - {x: 35, y: -25.5}
+        - {x: 46, y: -18.5}
+        - {x: 46, y: 25.5}
+    - name: Wolf_43
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 303
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_44
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 303
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 303
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_48
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 303
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 303
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 300
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 303
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 303
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 303
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 303
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 303
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 303
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -0.5}
+        - {x: 44.5, y: 15.5}
+        - {x: 41.5, y: 25.5}
+        - {x: -6.5, y: 25.5}
+        - {x: -44.5, y: 13.5}
+        - {x: -44.5, y: -25.5}
+        - {x: 44.5, y: -25.5}
+        - {x: 44.5, y: -14.5}
+        - {x: 28.5, y: -9.5}
+    - name: Wolf_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 210
+        width: 108
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -12}
+        - {x: 33, y: -7}
+        - {x: 33, y: -3}
+        - {x: 37, y: -7}
+        - {x: 50, y: -3}
+        - {x: 54, y: 5}
+        - {x: 54, y: 26}
+        - {x: -34, y: 26}
+        - {x: -54, y: 7}
+        - {x: -54, y: -26}
+        - {x: 46, y: -26}
+        - {x: 54, y: -17}
+        - {x: 54, y: -16}
+    - name: Wolf_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 222
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -4}
+        - {x: 40, y: -4}
+        - {x: 53, y: 0}
+        - {x: 53, y: 23}
+        - {x: -4, y: 23}
+        - {x: -14, y: 22}
+        - {x: -53, y: 11}
+        - {x: -53, y: -23}
+        - {x: 37, y: -23}
+        - {x: 34, y: -5}
+        - {x: 29, y: 1}
+    - name: Wolf_63
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 210
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 26}
+        - {x: -50.5, y: 22}
+        - {x: -50.5, y: -26}
+        - {x: 48.5, y: -26}
+        - {x: 50.5, y: -22}
+        - {x: 50.5, y: 20}
+        - {x: 43.5, y: 26}
+    - name: Wolf_64
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 258
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_65
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 258
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 209
+        width: 100
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 22.5}
+        - {x: -35, y: 21.5}
+        - {x: -50, y: 4.5}
+        - {x: -50, y: -1.5}
+        - {x: -48, y: -3.5}
+        - {x: -41, y: -3.5}
+        - {x: -36, y: -1.5}
+        - {x: -50, y: -9.5}
+        - {x: -50, y: -22.5}
+        - {x: 46, y: -22.5}
+        - {x: 50, y: -17.5}
+        - {x: 50, y: 13.5}
+        - {x: 26, y: 22.5}
+    - name: Wolf_67
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 210
+        width: 105
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_68
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 138
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 25.5}
+        - {x: -28.5, y: 17.5}
+        - {x: -44.5, y: 1.5}
+        - {x: -44.5, y: -25.5}
+        - {x: 41.5, y: -25.5}
+        - {x: 44.5, y: -21.5}
+        - {x: 44.5, y: 23.5}
+        - {x: 41.5, y: 25.5}
+    - name: Wolf_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 133
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 26.5}
+        - {x: -46, y: 26.5}
+        - {x: -46, y: -18.5}
+        - {x: -34, y: -26.5}
+        - {x: 46, y: -26.5}
+        - {x: 46, y: -9.5}
+        - {x: 26, y: 21.5}
+    - name: Wolf_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 99
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 43.5}
+        - {x: -35.5, y: -23.5}
+        - {x: -2.5, y: -43.5}
+        - {x: -0.5, y: -43.5}
+        - {x: -0.5, y: -26.5}
+        - {x: -0.5, y: -29.5}
+        - {x: 3.5, y: -36.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 35.5, y: -43.5}
+        - {x: 35.5, y: -33.5}
+        - {x: 16.5, y: 16.5}
+        - {x: -24.5, y: 43.5}
+    - name: Wolf_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 118
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 30}
+        - {x: -47.5, y: -18}
+        - {x: -28.5, y: -30}
+        - {x: 40.5, y: -30}
+        - {x: 47.5, y: -27}
+        - {x: 47.5, y: -8}
+        - {x: 2.5, y: 30}
+    - name: Wolf_72
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 163
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_73
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_74
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_75
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_76
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 163
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 163
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_78
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_79
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 107
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: Wolf_80
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 145
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_81
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 142
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_82
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 145
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_83
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 145
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_84
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 145
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 129
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_86
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_87
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_88
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_89
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 126
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_90
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 129
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_91
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_92
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 129
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_93
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_94
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 126
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_95
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_96
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 129
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_97
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 129
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_98
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_99
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 129
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_100
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 110
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_102
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_103
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 113
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_104
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_105
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 110
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_106
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_107
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_108
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_109
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 113
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_110
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_111
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 113
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_112
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 113
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -23}
+        - {x: 17.5, y: -20}
+        - {x: 24.5, y: -23}
+        - {x: 28.5, y: -22}
+        - {x: 28.5, y: 6}
+        - {x: 21.5, y: 26}
+        - {x: 9.5, y: 39}
+        - {x: -2.5, y: 39}
+        - {x: -6.5, y: 37}
+        - {x: -9.5, y: 29}
+        - {x: -10.5, y: 17}
+        - {x: -28.5, y: -8}
+        - {x: -28.5, y: -39}
+        - {x: 26.5, y: -39}
+        - {x: 28.5, y: -38}
+        - {x: 28.5, y: -28}
+        - {x: 27.5, y: -24}
+    - name: Wolf_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 43}
+        - {x: -22.5, y: 4}
+        - {x: -22.5, y: -43}
+        - {x: 22.5, y: -43}
+        - {x: 22.5, y: 42}
+        - {x: 19.5, y: 43}
+    - name: Wolf_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -23.5}
+        - {x: 29, y: 10.5}
+        - {x: 14, y: 39.5}
+        - {x: -5, y: 39.5}
+        - {x: -15, y: 20.5}
+        - {x: -29, y: 3.5}
+        - {x: -29, y: -39.5}
+        - {x: 29, y: -39.5}
+        - {x: 29, y: -28.5}
+        - {x: 27, y: -25.5}
+        - {x: 20, y: -23.5}
+    - name: Wolf_116
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -12}
+        - {x: 43, y: 21}
+        - {x: 37, y: 28}
+        - {x: 1, y: 28}
+        - {x: -28, y: 19}
+        - {x: -44, y: -12}
+        - {x: -44, y: -28}
+        - {x: 36, y: -28}
+        - {x: 44, y: -27}
+        - {x: 44, y: -17}
+        - {x: 39, y: -13}
+    - name: Wolf_117
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 12
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 22}
+        - {x: -29.5, y: 1}
+        - {x: -45.5, y: -16}
+        - {x: -45.5, y: -22}
+        - {x: 45.5, y: -22}
+        - {x: 45.5, y: 17}
+        - {x: 44.5, y: 22}
+    - name: Wolf_118
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 13
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wolf_119
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 13
+        width: 91
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

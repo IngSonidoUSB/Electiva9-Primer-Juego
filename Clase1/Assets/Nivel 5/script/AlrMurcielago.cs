@@ -28,7 +28,7 @@ public class AlrMurcielago : MonoBehaviour {
 
 	void SpawnMurcielago()
 	{
-		float addxPos = Random.Range(-2f, 3f);
+		float addxPos = Random.Range(-1f, 2f);
 		Vector3 spawnPos = transform.position + new Vector3(0, addxPos, 0);
 		Instantiate(MurcielagoPrefab, spawnPos, Quaternion.identity);
 	}
