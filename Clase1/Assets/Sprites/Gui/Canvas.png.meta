@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: 0cccf2ec3c593450d80f27bb447bbdfe
+timeCreated: 1457245423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Canvas_0
+    21300002: Canvas_1
+    21300004: Canvas_2
+    21300006: Canvas_3
+    21300008: Canvas_4
+    21300010: Canvas_5
+    21300012: Canvas_6
+    21300014: Canvas_7
+    21300016: Canvas_8
+    21300018: Canvas_9
+    21300020: Canvas_10
+    21300022: Canvas_11
+    21300024: Canvas_12
+    21300026: Canvas_13
+    21300028: Canvas_14
+    21300030: Canvas_15
+    21300032: Canvas_16
+    21300034: Canvas_17
+    21300036: Canvas_18
+    21300038: Canvas_19
+    21300040: Canvas_20
+    21300042: Canvas_21
+    21300044: Canvas_22
+    21300046: Canvas_23
+    21300048: Canvas_24
+    21300050: Canvas_25
+    21300052: Canvas_26
+    21300054: Canvas_27
+    21300056: Canvas_28
+    21300058: Canvas_29
+    21300060: Canvas_30
+    21300062: Canvas_31
+    21300064: Canvas_32
+    21300066: Canvas_33
+    21300068: Canvas_34
+    21300070: Canvas_35
+    21300072: Canvas_36
+    21300074: Canvas_37
+    21300076: Canvas_38
+    21300078: Canvas_39
+    21300080: Canvas_40
+    21300082: Canvas_41
+    21300084: Canvas_42
+    21300086: Canvas_43
+    21300088: Canvas_44
+    21300090: Canvas_45
+    21300092: Canvas_46
+    21300094: Canvas_47
+    21300096: Canvas_48
+    21300098: Canvas_49
+    21300100: Canvas_50
+    21300102: Canvas_51
+    21300104: Canvas_52
+    21300106: Canvas_53
+    21300108: Canvas_54
+    21300110: Canvas_55
+    21300112: Canvas_56
+    21300114: Canvas_57
+    21300116: Canvas_58
+    21300118: Canvas_59
+    21300120: Canvas_60
+    21300122: Canvas_61
+    21300124: Canvas_62
+    21300126: Canvas_63
+    21300128: Canvas_64
+    21300130: Canvas_65
+    21300132: Canvas_66
+    21300134: Canvas_67
+    21300136: Canvas_68
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Canvas_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 923
+        width: 209
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.5, y: -76}
+        - {x: 104.5, y: 69}
+        - {x: 100.5, y: 74}
+        - {x: 49.5, y: 91}
+        - {x: -44.5, y: 91}
+        - {x: -54.5, y: 90}
+        - {x: -101.5, y: 73}
+        - {x: -104.5, y: 70}
+        - {x: -104.5, y: -74}
+        - {x: -87.5, y: -91}
+        - {x: 92.5, y: -91}
+    - name: Canvas_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1097
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1097
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1074
+        width: 160
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 21.5}
+        - {x: -80, y: 9.5}
+        - {x: -80, y: -21.5}
+        - {x: 80, y: -21.5}
+        - {x: 80, y: 10.5}
+        - {x: 62, y: 21.5}
+    - name: Canvas_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 921
+        width: 210
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 77}
+        - {x: 49, y: 84}
+        - {x: -44, y: 84}
+        - {x: -53, y: 82}
+        - {x: -81, y: 72}
+        - {x: -101, y: 68}
+        - {x: -105, y: 62}
+        - {x: -105, y: -80}
+        - {x: -101, y: -84}
+        - {x: 103, y: -84}
+        - {x: 105, y: -82}
+        - {x: 105, y: 60}
+        - {x: 100, y: 68}
+    - name: Canvas_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 921
+        width: 209
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: 74}
+        - {x: -102.5, y: 74}
+        - {x: -104.5, y: 72}
+        - {x: -104.5, y: -70}
+        - {x: -100.5, y: -74}
+        - {x: 103.5, y: -74}
+        - {x: 104.5, y: -73}
+        - {x: 104.5, y: 71}
+    - name: Canvas_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 921
+        width: 210
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 74}
+        - {x: -105, y: 72}
+        - {x: -105, y: -70}
+        - {x: -101, y: -74}
+        - {x: 103, y: -74}
+        - {x: 105, y: -72}
+        - {x: 105, y: 70}
+        - {x: 102, y: 74}
+    - name: Canvas_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 877
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 865
+        width: 103
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 11}
+        - {x: 33.5, y: 16}
+        - {x: 29.5, y: 17}
+        - {x: -34.5, y: 17}
+        - {x: -51.5, y: 8}
+        - {x: -51.5, y: -17}
+        - {x: 51.5, y: -17}
+    - name: Canvas_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 805
+        width: 186
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 53.5}
+        - {x: -93, y: 52.5}
+        - {x: -93, y: -52.5}
+        - {x: -92, y: -53.5}
+        - {x: 92, y: -53.5}
+        - {x: 93, y: -52.5}
+        - {x: 93, y: 53.5}
+    - name: Canvas_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 731
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 71.5}
+        - {x: -51.5, y: 64.5}
+        - {x: -51.5, y: 35.5}
+        - {x: -49.5, y: 35.5}
+        - {x: -44.5, y: -65.5}
+        - {x: -39.5, y: -71.5}
+        - {x: 43.5, y: -71.5}
+        - {x: 46.5, y: -67.5}
+        - {x: 51.5, y: -33.5}
+        - {x: 51.5, y: 71.5}
+    - name: Canvas_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 731
+        width: 103
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 71.5}
+        - {x: -51.5, y: 64.5}
+        - {x: -51.5, y: 35.5}
+        - {x: -49.5, y: 35.5}
+        - {x: -44.5, y: -65.5}
+        - {x: -39.5, y: -71.5}
+        - {x: 43.5, y: -71.5}
+        - {x: 46.5, y: -67.5}
+        - {x: 51.5, y: -33.5}
+        - {x: 51.5, y: 71.5}
+    - name: Canvas_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 731
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 64}
+        - {x: -42.5, y: -61}
+        - {x: -39.5, y: -64}
+        - {x: 40.5, y: -64}
+        - {x: 42.5, y: -62}
+        - {x: 42.5, y: 64}
+    - name: Canvas_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 731
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 64}
+        - {x: -42.5, y: -64}
+        - {x: 42.5, y: -64}
+        - {x: 42.5, y: 64}
+    - name: Canvas_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 747
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 50.5}
+        - {x: -34.5, y: -50.5}
+        - {x: 33.5, y: -50.5}
+        - {x: 34.5, y: -49.5}
+        - {x: 34.5, y: 49.5}
+        - {x: 33.5, y: 50.5}
+    - name: Canvas_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 665
+        width: 155
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 43.5}
+        - {x: -77.5, y: 42.5}
+        - {x: -77.5, y: -43.5}
+        - {x: 77.5, y: -43.5}
+        - {x: 77.5, y: 43.5}
+    - name: Canvas_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 677
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 663
+        width: 159
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 21.5}
+        - {x: -79.5, y: 17.5}
+        - {x: -79.5, y: -21.5}
+        - {x: 79.5, y: -21.5}
+        - {x: 79.5, y: 15.5}
+        - {x: 71.5, y: 21.5}
+    - name: Canvas_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 521
+        width: 174
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 74.5}
+        - {x: -67, y: 74.5}
+        - {x: -87, y: 61.5}
+        - {x: -87, y: -64.5}
+        - {x: -85, y: -70.5}
+        - {x: -59, y: -74.5}
+        - {x: 78, y: -74.5}
+        - {x: 87, y: -73.5}
+        - {x: 87, y: 53.5}
+    - name: Canvas_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 529
+        width: 174
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 70.5}
+        - {x: -61, y: 70.5}
+        - {x: -76, y: 61.5}
+        - {x: -87, y: 54.5}
+        - {x: -87, y: -70.5}
+        - {x: 87, y: -70.5}
+        - {x: 87, y: 54.5}
+        - {x: 75, y: 69.5}
+    - name: Canvas_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 529
+        width: 175
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 60.5}
+        - {x: -87.5, y: 58.5}
+        - {x: -87.5, y: -56.5}
+        - {x: -83.5, y: -60.5}
+        - {x: 87.5, y: -60.5}
+        - {x: 87.5, y: 59.5}
+        - {x: 85.5, y: 60.5}
+    - name: Canvas_21
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 529
+        width: 175
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 60.5}
+        - {x: -87.5, y: 58.5}
+        - {x: -87.5, y: -56.5}
+        - {x: -83.5, y: -60.5}
+        - {x: 85.5, y: -60.5}
+        - {x: 87.5, y: -58.5}
+        - {x: 87.5, y: 56.5}
+        - {x: 84.5, y: 60.5}
+    - name: Canvas_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 481
+        width: 138
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 17.5}
+        - {x: 57, y: 18.5}
+        - {x: -58, y: 18.5}
+        - {x: -68, y: 7.5}
+        - {x: -68, y: 3.5}
+        - {x: -69, y: 0.5}
+        - {x: -69, y: -18.5}
+        - {x: 69, y: -18.5}
+    - name: Canvas_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 487
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 16.5}
+        - {x: -48.5, y: -16.5}
+        - {x: 48.5, y: -16.5}
+        - {x: 48.5, y: 16.5}
+    - name: Canvas_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 294
+        width: 141
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: 92}
+        - {x: 50.5, y: 97}
+        - {x: -48.5, y: 97}
+        - {x: -70.5, y: 88}
+        - {x: -70.5, y: -93}
+        - {x: -69.5, y: -95}
+        - {x: -57.5, y: -97}
+        - {x: 63.5, y: -97}
+        - {x: 69.5, y: -90}
+        - {x: 70.5, y: -36}
+        - {x: 70.5, y: 91}
+    - name: Canvas_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 297
+        width: 138
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 95.5}
+        - {x: -47, y: 95.5}
+        - {x: -67, y: 89.5}
+        - {x: -69, y: 85.5}
+        - {x: -69, y: -91.5}
+        - {x: -65, y: -95.5}
+        - {x: 67, y: -95.5}
+        - {x: 69, y: -94.5}
+        - {x: 69, y: 81.5}
+        - {x: 66, y: 89.5}
+    - name: Canvas_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 319
+        width: 4
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 297
+        width: 136
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 87}
+        - {x: -67, y: 87}
+        - {x: -68, y: 86}
+        - {x: -68, y: -84}
+        - {x: -65, y: -87}
+        - {x: 66, y: -87}
+        - {x: 68, y: -85}
+        - {x: 68, y: 84}
+    - name: Canvas_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 297
+        width: 136
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 87}
+        - {x: -68, y: 86}
+        - {x: -68, y: -84}
+        - {x: -65, y: -87}
+        - {x: 67, y: -87}
+        - {x: 68, y: -86}
+        - {x: 68, y: 85}
+        - {x: 66, y: 87}
+    - name: Canvas_30
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 319
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 69}
+        - {x: -54.5, y: -68}
+        - {x: -53.5, y: -69}
+        - {x: 53.5, y: -69}
+        - {x: 54.5, y: -68}
+        - {x: 54.5, y: 69}
+    - name: Canvas_31
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 454
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 16}
+        - {x: -48.5, y: -16}
+        - {x: 48.5, y: -16}
+        - {x: 48.5, y: 16}
+    - name: Canvas_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 425
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_33
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 384
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 16}
+    - name: Canvas_34
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 350
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 16}
+    - name: Canvas_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 323
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_36
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 289
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 267
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 226
+        width: 139
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 21.5}
+        - {x: -69.5, y: -21.5}
+        - {x: 69.5, y: -21.5}
+        - {x: 69.5, y: 14.5}
+        - {x: 62.5, y: 21.5}
+    - name: Canvas_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 223
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 27.5}
+        - {x: -15, y: 27.5}
+        - {x: -55, y: 9.5}
+        - {x: -55, y: -27.5}
+        - {x: 55, y: -27.5}
+        - {x: 55, y: 2.5}
+        - {x: 41, y: 13.5}
+    - name: Canvas_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 258
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 237
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 237
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_43
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 224
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 140
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 84}
+        - {x: 40, y: 94}
+        - {x: -45, y: 94}
+        - {x: -70, y: 84}
+        - {x: -70, y: -80}
+        - {x: -54, y: -94}
+        - {x: 70, y: -94}
+    - name: Canvas_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 88.5}
+        - {x: -47.5, y: 88.5}
+        - {x: -69.5, y: 77.5}
+        - {x: -69.5, y: -83.5}
+        - {x: -65.5, y: -88.5}
+        - {x: 67.5, y: -88.5}
+        - {x: 69.5, y: -85.5}
+        - {x: 69.5, y: 78.5}
+        - {x: 45.5, y: 86.5}
+    - name: Canvas_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 56
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 78}
+        - {x: -66.5, y: 78}
+        - {x: -68.5, y: 76}
+        - {x: -68.5, y: -74}
+        - {x: -64.5, y: -78}
+        - {x: 66.5, y: -78}
+        - {x: 68.5, y: -76}
+        - {x: 68.5, y: 74}
+    - name: Canvas_47
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 56
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 78}
+        - {x: -66.5, y: 78}
+        - {x: -68.5, y: 76}
+        - {x: -68.5, y: -74}
+        - {x: -64.5, y: -78}
+        - {x: 68.5, y: -78}
+        - {x: 68.5, y: 74}
+    - name: Canvas_48
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 176
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_49
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 193
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_50
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 147
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_51
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 166
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_52
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 146
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 108
+        width: 108
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_54
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 106
+        width: 101
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_55
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 76
+        width: 106
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_56
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 75
+        width: 101
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 41
+        width: 108
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 57
+        width: 82
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_59
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_60
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 19}
+        - {x: -13, y: 19}
+        - {x: -20, y: 17}
+        - {x: -20, y: -9}
+        - {x: -15, y: -19}
+        - {x: 14, y: -19}
+        - {x: 17, y: -17}
+        - {x: 20, y: -4}
+        - {x: 20, y: 10}
+    - name: Canvas_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 13
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 14
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_66
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 33
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_67
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 9
+        width: 106
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Canvas_68
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 17
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
