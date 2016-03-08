@@ -83,6 +83,7 @@
      <Compile Include="Assets\Nivel 5\script\MovMurcielago.cs" />
      <Compile Include="Assets\Nivel 5\script\MovPerro.cs" />
      <Compile Include="Assets\Nivel 5\script\gpared.cs" />
+     <Compile Include="Assets\Nivel 5\script\gparelL.cs" />
      <Compile Include="Assets\Nivel 5\script\gpiso.cs" />
      <Compile Include="Assets\Nivel 5\script\vidas.cs" />
      <Compile Include="Assets\Scripts\AnimationController.cs" />
