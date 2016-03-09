@@ -72,7 +72,6 @@
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaroiz.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\tiempo.cs" />
      <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
-     <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
      <Compile Include="Assets\Nivel 4\Scripts\AnimationController.cs" />
      <Compile Include="Assets\Nivel 4\Scripts\Follow_Bird.cs" />

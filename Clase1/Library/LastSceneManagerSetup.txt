@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Nivel 3/nivel 3 chente.unity
+  isLoaded: 1
+  isActive: 1
