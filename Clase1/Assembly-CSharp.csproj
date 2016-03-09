@@ -38,10 +38,10 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -74,6 +74,24 @@
      <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
      <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\AnimationController.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Follow_Bird.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Gato.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\MariposaScript.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\MariposaSpawner.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Mariposa_Fall.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Mars.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Midibridge\Boton3.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Midibridge\MidiBridge.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Midibridge\MidiInput.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Midibridge\MidiOut.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Pared_Teleport.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\PlayAudio.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\PlayerScript.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Puntaje.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Spawn.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Spawn_Pajaro.cs" />
+     <Compile Include="Assets\Nivel 4\Scripts\Timer.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMariposa.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMurcielago.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrPerro.cs" />
@@ -86,22 +104,11 @@
      <Compile Include="Assets\Nivel 5\script\gparelL.cs" />
      <Compile Include="Assets\Nivel 5\script\gpiso.cs" />
      <Compile Include="Assets\Nivel 5\script\vidas.cs" />
-     <Compile Include="Assets\Scripts\AnimationController.cs" />
-     <Compile Include="Assets\Scripts\MariposaScript.cs" />
-     <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\Boton3.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiBridge.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiInput.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiOut.cs" />
-     <Compile Include="Assets\Scripts\PlayAudio.cs" />
-     <Compile Include="Assets\Scripts\PlayerScript.cs" />
-     <Compile Include="Assets\Scripts\Puntaje.cs" />
-     <Compile Include="Assets\Scripts\Timer.cs" />
  <Reference Include="UnityEngine.UI">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
