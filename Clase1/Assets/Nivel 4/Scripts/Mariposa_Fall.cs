@@ -18,6 +18,11 @@ public class Mariposa_Fall : MonoBehaviour {
 
 		transform.position = transform.position - new Vector3 (Amplitud*Mathf.Sin(Time.time*Freq), Fall_Speed * Time.deltaTime, 0);
 
+		if (transform.position.y < -4.9f) {
+
+			Destroy (this.gameObject);
+		}
+
 	}
 
 }

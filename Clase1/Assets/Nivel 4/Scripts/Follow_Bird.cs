@@ -8,10 +8,9 @@ public class Follow_Bird : MonoBehaviour {
 	public GameObject Off_Screen;
 	public GameObject Gatox;
 	public int speed = 5;
+	public Vector3 Variable_Neisa;
 
 	private Gato ScriptGato;
-	public Gato Puntaje;
-	public int x;
 
 	void Awake () {
 	
@@ -21,8 +20,8 @@ public class Follow_Bird : MonoBehaviour {
 
 	void Start () {
 	
-		Gatox = GameObject.Find ("Gato");
-		Off_Screen = GameObject.Find ("Cosa");
+		Gatox = GameObject.FindGameObjectWithTag ("Gato");
+		Off_Screen = GameObject.Find ("Off_Pajaro");
 
 		ScriptGato = Gatox.GetComponent<Gato> ();
 
@@ -33,19 +32,38 @@ public class Follow_Bird : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		
-		float step = speed * Time.deltaTime;
 
-		if (ScriptGato.Hidden == false) {
+			float step = speed * Time.deltaTime;
 
-			transform.position = Vector3.MoveTowards (transform.position, target_1.position, step);
+			if (ScriptGato.Hidden == false && (GameObject.FindGameObjectWithTag ("Gato") != null)) {
+
+				Variable_Neisa = Vector3.MoveTowards (transform.position, target_1.position, step) - this.transform.position;
+
+				transform.position = Vector3.MoveTowards (transform.position, target_1.position, step);
+
+				if (Variable_Neisa.x > 0) {
+					transform.localEulerAngles = new Vector3 (0, 180, (-180 * (Mathf.Atan (Variable_Neisa.y / Variable_Neisa.x))) / 3.14f);
+				} else {
+					transform.localEulerAngles = new Vector3 (0, 0, (180 * (Mathf.Atan (Variable_Neisa.y / Variable_Neisa.x))) / 3.14f);
+				}
 		
-		} else if (ScriptGato.Hidden == true) {
+			} else if (ScriptGato.Hidden == true && (GameObject.FindGameObjectWithTag ("Gato") != null)) {
+
+				Variable_Neisa = Vector3.MoveTowards (transform.position, target_2.position, step) - this.transform.position;
 		
-			transform.position = Vector3.MoveTowards (transform.position, target_2.position, step);
+				transform.position = Vector3.MoveTowards (transform.position, target_2.position, step * 1.2f);
+
+				if (Variable_Neisa.x > 0) {
+					transform.localEulerAngles = new Vector3 (0, 180, (-180 * (Mathf.Atan (Variable_Neisa.y / Variable_Neisa.x))) / 3.14f);
+				} else {
+					transform.localEulerAngles = new Vector3 (0, 0, (180 * (Mathf.Atan (Variable_Neisa.y / Variable_Neisa.x))) / 3.14f);
+				}
+
+			}
+
+		if (transform.position.y > 6 || (GameObject.FindGameObjectWithTag ("Gato") == null)) {
+
+			Destroy (this.gameObject);
 		}
-			
-
-
 	}
 }
