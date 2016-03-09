@@ -1,8 +1,1 @@
-sceneSetups:
-<<<<<<< Updated upstream
-- path: Assets/Nivel 1/SceneNivel1.unity
-=======
-- path: Assets/Nivel 3/NIVEL 3.unity
->>>>>>> Stashed changes
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []

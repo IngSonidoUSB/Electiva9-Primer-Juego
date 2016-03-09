@@ -14,7 +14,8 @@ public class Grupo_3 : MonoBehaviour {
 		 * Miguel Bernal
 		 * Juan Pablo Estrada
 		 * Jose Pinto
-		 * /*
+		 * 
+		 * */
 	
 	}
 }

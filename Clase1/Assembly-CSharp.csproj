@@ -38,17 +38,10 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-<<<<<<< Updated upstream
-      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor">
-      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
-=======
       <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
->>>>>>> Stashed changes
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -111,45 +104,11 @@
      <Compile Include="Assets\Nivel 5\script\gparelL.cs" />
      <Compile Include="Assets\Nivel 5\script\gpiso.cs" />
      <Compile Include="Assets\Nivel 5\script\vidas.cs" />
-<<<<<<< Updated upstream
- <Reference Include="UnityEngine.UI">
- <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Networking">
- <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
-=======
-     <Compile Include="Assets\Scripts\AnimationController.cs" />
-     <Compile Include="Assets\Scripts\Gui.cs" />
-     <Compile Include="Assets\Scripts\MariposaScript.cs" />
-     <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\Boton3.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiBridge.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiInput.cs" />
-     <Compile Include="Assets\Scripts\Midibridge\MidiOut.cs" />
-     <Compile Include="Assets\Scripts\PlayAudio.cs" />
-     <Compile Include="Assets\Scripts\PlayerScript.cs" />
-     <Compile Include="Assets\Scripts\Puntaje.cs" />
-     <Compile Include="Assets\Scripts\Timer.cs" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
-     <None Include="Assets\Mobile-Cartoony\ReadMe.txt" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
-     <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="NGUI">
- <HintPath>/Users/miguelalejandrobernalosorio/Documents/UNIVERSIDAD/9 semestre/VideoJuegos/PROYECTO VIDEOJUEGOS/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
->>>>>>> Stashed changes
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
