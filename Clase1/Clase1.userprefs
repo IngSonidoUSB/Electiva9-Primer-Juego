@@ -1,9 +1,10 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Nivel 3/Grupo_3.cs">
+﻿<Properties StartupItem="Clase1.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Nivel 2\Level 2\CNControls\Scripts\CnInputSystem\CnInputManager.cs">
     <Files>
-      <File FileName="Assets/Nivel 1/Scripts/Grupo_1.cs" Line="1" Column="1" />
-      <File FileName="Assets/Nivel 3/Grupo_3.cs" Line="18" Column="8" />
+      <File FileName="Assets\Nivel 2\Level 2\CNControls\Scripts\CnInputSystem\CnInputManager.cs" Line="10" Column="1" />
+      <File FileName="Assets\Nivel 1\Scripts\Grupo_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Nivel 3\Grupo_3.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

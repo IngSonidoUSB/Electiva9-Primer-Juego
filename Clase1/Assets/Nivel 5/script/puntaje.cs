@@ -10,22 +10,15 @@ public class puntaje : MonoBehaviour
 	public Text Score;
 	public int Value = 0;
 
-	//public AudioClip tigre;
-	//public AudioClip Cat;
-	//public AudioClip CatA;
-	//private AudioSource Sound;
-
-
-	// Use this for initialization
+	
 	void Start()
 	{
-		//Sound = GetComponent<AudioSource>();
-		//Sound.clip = tigre;
+		
 
 
 	}
 
-	// Update is called once per frame
+	
 	void Update()
 	{
 		Score.text = Value.ToString();

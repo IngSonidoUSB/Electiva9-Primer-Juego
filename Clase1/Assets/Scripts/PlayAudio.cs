@@ -12,8 +12,8 @@ public class PlayAudio : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		Sound = GetComponent<AudioSource>();
-		Sound.clip = Cat;
+		//Sound = GetComponent<AudioSource>();
+		//Sound.clip = Cat;
 
 		
 	

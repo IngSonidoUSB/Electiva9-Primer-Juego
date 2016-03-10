@@ -80,41 +80,32 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>Library\UnityAssemblies\UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.OSXStandalone.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>Library\UnityAssemblies\SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.EditorTestsRunner">
-      <HintPath>Library\UnityAssemblies\UnityEditor.EditorTestsRunner.dll</HintPath>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Networking">
-      <HintPath>Library\UnityAssemblies\UnityEditor.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="nunit.framework">
-      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\UnityAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Networking">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Advertisements">
-      <HintPath>Library\UnityAssemblies\UnityEditor.Advertisements.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.TreeEditor">
-      <HintPath>Library\UnityAssemblies\UnityEditor.TreeEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="NGUI">
-      <HintPath>Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\DLLs\NGUI.dll</HintPath>
+      <HintPath>Assets\Mobile-Cartoony\ThirdParty\NGUI\DLLs\NGUI.dll</HintPath>
     </Reference>
     <Reference Include="NGUI_Editor">
-      <HintPath>Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\DLLs\Editor\NGUI_Editor.dll</HintPath>
+      <HintPath>Assets\Mobile-Cartoony\ThirdParty\NGUI\DLLs\Editor\NGUI_Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -124,37 +115,37 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\ComponentSelector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\NGUITransformInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIAtlasInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIDrawCallInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIFilledSpriteInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIFontInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIImageButtonInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UILabelInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIPopupListInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIScrollBarInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISettings.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISlicedSpriteInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISliderInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISpriteAnimationInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISpriteInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UITextureInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UITiledSpriteInspector.cs" />
-    <Compile Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\ComponentSelector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\NGUITransformInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIAtlasInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIDrawCallInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIFilledSpriteInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIFontInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIImageButtonInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UILabelInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIPopupListInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIScrollBarInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISettings.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISlicedSpriteInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISliderInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISpriteAnimationInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UISpriteInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UITextureInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UITiledSpriteInspector.cs" />
+    <Compile Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ReadMe.txt" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
-    <None Include="Assets\Nivel 2\Level 2\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+    <None Include="Assets\Mobile-Cartoony\ReadMe.txt" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Depth.shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (HardClip).shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
+    <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
