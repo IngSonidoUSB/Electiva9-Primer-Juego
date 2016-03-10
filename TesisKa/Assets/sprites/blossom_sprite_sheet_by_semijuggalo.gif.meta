@@ -1,0 +1,3833 @@
+fileFormatVersion: 2
+guid: f00558c3954244e5fa4257d3c57d8849
+timeCreated: 1457381960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blossom_sprite_sheet_by_semijuggalo_0
+    21300002: blossom_sprite_sheet_by_semijuggalo_1
+    21300004: blossom_sprite_sheet_by_semijuggalo_2
+    21300006: blossom_sprite_sheet_by_semijuggalo_3
+    21300008: blossom_sprite_sheet_by_semijuggalo_4
+    21300010: blossom_sprite_sheet_by_semijuggalo_5
+    21300012: blossom_sprite_sheet_by_semijuggalo_6
+    21300014: blossom_sprite_sheet_by_semijuggalo_7
+    21300016: blossom_sprite_sheet_by_semijuggalo_8
+    21300018: blossom_sprite_sheet_by_semijuggalo_9
+    21300020: blossom_sprite_sheet_by_semijuggalo_10
+    21300022: blossom_sprite_sheet_by_semijuggalo_11
+    21300024: blossom_sprite_sheet_by_semijuggalo_12
+    21300026: blossom_sprite_sheet_by_semijuggalo_13
+    21300028: blossom_sprite_sheet_by_semijuggalo_14
+    21300030: blossom_sprite_sheet_by_semijuggalo_15
+    21300032: blossom_sprite_sheet_by_semijuggalo_16
+    21300034: blossom_sprite_sheet_by_semijuggalo_17
+    21300036: blossom_sprite_sheet_by_semijuggalo_18
+    21300038: blossom_sprite_sheet_by_semijuggalo_19
+    21300040: blossom_sprite_sheet_by_semijuggalo_20
+    21300042: blossom_sprite_sheet_by_semijuggalo_21
+    21300044: blossom_sprite_sheet_by_semijuggalo_22
+    21300046: blossom_sprite_sheet_by_semijuggalo_23
+    21300048: blossom_sprite_sheet_by_semijuggalo_24
+    21300050: blossom_sprite_sheet_by_semijuggalo_25
+    21300052: blossom_sprite_sheet_by_semijuggalo_26
+    21300054: blossom_sprite_sheet_by_semijuggalo_27
+    21300056: blossom_sprite_sheet_by_semijuggalo_28
+    21300058: blossom_sprite_sheet_by_semijuggalo_29
+    21300060: blossom_sprite_sheet_by_semijuggalo_30
+    21300062: blossom_sprite_sheet_by_semijuggalo_31
+    21300064: blossom_sprite_sheet_by_semijuggalo_32
+    21300066: blossom_sprite_sheet_by_semijuggalo_33
+    21300068: blossom_sprite_sheet_by_semijuggalo_34
+    21300070: blossom_sprite_sheet_by_semijuggalo_35
+    21300072: blossom_sprite_sheet_by_semijuggalo_36
+    21300074: blossom_sprite_sheet_by_semijuggalo_37
+    21300076: blossom_sprite_sheet_by_semijuggalo_38
+    21300078: blossom_sprite_sheet_by_semijuggalo_39
+    21300080: blossom_sprite_sheet_by_semijuggalo_40
+    21300082: blossom_sprite_sheet_by_semijuggalo_41
+    21300084: blossom_sprite_sheet_by_semijuggalo_42
+    21300086: blossom_sprite_sheet_by_semijuggalo_43
+    21300088: blossom_sprite_sheet_by_semijuggalo_44
+    21300090: blossom_sprite_sheet_by_semijuggalo_45
+    21300092: blossom_sprite_sheet_by_semijuggalo_46
+    21300094: blossom_sprite_sheet_by_semijuggalo_47
+    21300096: blossom_sprite_sheet_by_semijuggalo_48
+    21300098: blossom_sprite_sheet_by_semijuggalo_49
+    21300100: blossom_sprite_sheet_by_semijuggalo_50
+    21300102: blossom_sprite_sheet_by_semijuggalo_51
+    21300104: blossom_sprite_sheet_by_semijuggalo_52
+    21300106: blossom_sprite_sheet_by_semijuggalo_53
+    21300108: blossom_sprite_sheet_by_semijuggalo_54
+    21300110: blossom_sprite_sheet_by_semijuggalo_55
+    21300112: blossom_sprite_sheet_by_semijuggalo_56
+    21300114: blossom_sprite_sheet_by_semijuggalo_57
+    21300116: blossom_sprite_sheet_by_semijuggalo_58
+    21300118: blossom_sprite_sheet_by_semijuggalo_59
+    21300120: blossom_sprite_sheet_by_semijuggalo_60
+    21300122: blossom_sprite_sheet_by_semijuggalo_61
+    21300124: blossom_sprite_sheet_by_semijuggalo_62
+    21300126: blossom_sprite_sheet_by_semijuggalo_63
+    21300128: blossom_sprite_sheet_by_semijuggalo_64
+    21300130: blossom_sprite_sheet_by_semijuggalo_65
+    21300132: blossom_sprite_sheet_by_semijuggalo_66
+    21300134: blossom_sprite_sheet_by_semijuggalo_67
+    21300136: blossom_sprite_sheet_by_semijuggalo_68
+    21300138: blossom_sprite_sheet_by_semijuggalo_69
+    21300140: blossom_sprite_sheet_by_semijuggalo_70
+    21300142: blossom_sprite_sheet_by_semijuggalo_71
+    21300144: blossom_sprite_sheet_by_semijuggalo_72
+    21300146: blossom_sprite_sheet_by_semijuggalo_73
+    21300148: blossom_sprite_sheet_by_semijuggalo_74
+    21300150: blossom_sprite_sheet_by_semijuggalo_75
+    21300152: blossom_sprite_sheet_by_semijuggalo_76
+    21300154: blossom_sprite_sheet_by_semijuggalo_77
+    21300156: blossom_sprite_sheet_by_semijuggalo_78
+    21300158: blossom_sprite_sheet_by_semijuggalo_79
+    21300160: blossom_sprite_sheet_by_semijuggalo_80
+    21300162: blossom_sprite_sheet_by_semijuggalo_81
+    21300164: blossom_sprite_sheet_by_semijuggalo_82
+    21300166: blossom_sprite_sheet_by_semijuggalo_83
+    21300168: blossom_sprite_sheet_by_semijuggalo_84
+    21300170: blossom_sprite_sheet_by_semijuggalo_85
+    21300172: blossom_sprite_sheet_by_semijuggalo_86
+    21300174: blossom_sprite_sheet_by_semijuggalo_87
+    21300176: blossom_sprite_sheet_by_semijuggalo_88
+    21300178: blossom_sprite_sheet_by_semijuggalo_89
+    21300180: blossom_sprite_sheet_by_semijuggalo_90
+    21300182: blossom_sprite_sheet_by_semijuggalo_91
+    21300184: blossom_sprite_sheet_by_semijuggalo_92
+    21300186: blossom_sprite_sheet_by_semijuggalo_93
+    21300188: blossom_sprite_sheet_by_semijuggalo_94
+    21300190: blossom_sprite_sheet_by_semijuggalo_95
+    21300192: blossom_sprite_sheet_by_semijuggalo_96
+    21300194: blossom_sprite_sheet_by_semijuggalo_97
+    21300196: blossom_sprite_sheet_by_semijuggalo_98
+    21300198: blossom_sprite_sheet_by_semijuggalo_99
+    21300200: blossom_sprite_sheet_by_semijuggalo_100
+    21300202: blossom_sprite_sheet_by_semijuggalo_101
+    21300204: blossom_sprite_sheet_by_semijuggalo_102
+    21300206: blossom_sprite_sheet_by_semijuggalo_103
+    21300208: blossom_sprite_sheet_by_semijuggalo_104
+    21300210: blossom_sprite_sheet_by_semijuggalo_105
+    21300212: blossom_sprite_sheet_by_semijuggalo_106
+    21300214: blossom_sprite_sheet_by_semijuggalo_107
+    21300216: blossom_sprite_sheet_by_semijuggalo_108
+    21300218: blossom_sprite_sheet_by_semijuggalo_109
+    21300220: blossom_sprite_sheet_by_semijuggalo_110
+    21300222: blossom_sprite_sheet_by_semijuggalo_111
+    21300224: blossom_sprite_sheet_by_semijuggalo_112
+    21300226: blossom_sprite_sheet_by_semijuggalo_113
+    21300228: blossom_sprite_sheet_by_semijuggalo_114
+    21300230: blossom_sprite_sheet_by_semijuggalo_115
+    21300232: blossom_sprite_sheet_by_semijuggalo_116
+    21300234: blossom_sprite_sheet_by_semijuggalo_117
+    21300236: blossom_sprite_sheet_by_semijuggalo_118
+    21300238: blossom_sprite_sheet_by_semijuggalo_119
+    21300240: blossom_sprite_sheet_by_semijuggalo_120
+    21300242: blossom_sprite_sheet_by_semijuggalo_121
+    21300244: blossom_sprite_sheet_by_semijuggalo_122
+    21300246: blossom_sprite_sheet_by_semijuggalo_123
+    21300248: blossom_sprite_sheet_by_semijuggalo_124
+    21300250: blossom_sprite_sheet_by_semijuggalo_125
+    21300252: blossom_sprite_sheet_by_semijuggalo_126
+    21300254: blossom_sprite_sheet_by_semijuggalo_127
+    21300256: blossom_sprite_sheet_by_semijuggalo_128
+    21300258: blossom_sprite_sheet_by_semijuggalo_129
+    21300260: blossom_sprite_sheet_by_semijuggalo_130
+    21300262: blossom_sprite_sheet_by_semijuggalo_131
+    21300264: blossom_sprite_sheet_by_semijuggalo_132
+    21300266: blossom_sprite_sheet_by_semijuggalo_133
+    21300268: blossom_sprite_sheet_by_semijuggalo_134
+    21300270: blossom_sprite_sheet_by_semijuggalo_135
+    21300272: blossom_sprite_sheet_by_semijuggalo_136
+    21300274: blossom_sprite_sheet_by_semijuggalo_137
+    21300276: blossom_sprite_sheet_by_semijuggalo_138
+    21300278: blossom_sprite_sheet_by_semijuggalo_139
+    21300280: blossom_sprite_sheet_by_semijuggalo_140
+    21300282: blossom_sprite_sheet_by_semijuggalo_141
+    21300284: blossom_sprite_sheet_by_semijuggalo_142
+    21300286: blossom_sprite_sheet_by_semijuggalo_143
+    21300288: blossom_sprite_sheet_by_semijuggalo_144
+    21300290: blossom_sprite_sheet_by_semijuggalo_145
+    21300292: blossom_sprite_sheet_by_semijuggalo_146
+    21300294: blossom_sprite_sheet_by_semijuggalo_147
+    21300296: blossom_sprite_sheet_by_semijuggalo_148
+    21300298: blossom_sprite_sheet_by_semijuggalo_149
+    21300300: blossom_sprite_sheet_by_semijuggalo_150
+    21300302: blossom_sprite_sheet_by_semijuggalo_151
+    21300304: blossom_sprite_sheet_by_semijuggalo_152
+    21300306: blossom_sprite_sheet_by_semijuggalo_153
+    21300308: blossom_sprite_sheet_by_semijuggalo_154
+    21300310: blossom_sprite_sheet_by_semijuggalo_155
+    21300312: blossom_sprite_sheet_by_semijuggalo_156
+    21300314: blossom_sprite_sheet_by_semijuggalo_157
+    21300316: blossom_sprite_sheet_by_semijuggalo_158
+    21300318: blossom_sprite_sheet_by_semijuggalo_159
+    21300320: blossom_sprite_sheet_by_semijuggalo_160
+    21300322: blossom_sprite_sheet_by_semijuggalo_161
+    21300324: blossom_sprite_sheet_by_semijuggalo_162
+    21300326: blossom_sprite_sheet_by_semijuggalo_163
+    21300328: blossom_sprite_sheet_by_semijuggalo_164
+    21300330: blossom_sprite_sheet_by_semijuggalo_165
+    21300332: blossom_sprite_sheet_by_semijuggalo_166
+    21300334: blossom_sprite_sheet_by_semijuggalo_167
+    21300336: blossom_sprite_sheet_by_semijuggalo_168
+    21300338: blossom_sprite_sheet_by_semijuggalo_169
+    21300340: blossom_sprite_sheet_by_semijuggalo_170
+    21300342: blossom_sprite_sheet_by_semijuggalo_171
+    21300344: blossom_sprite_sheet_by_semijuggalo_172
+    21300346: blossom_sprite_sheet_by_semijuggalo_173
+    21300348: blossom_sprite_sheet_by_semijuggalo_174
+    21300350: blossom_sprite_sheet_by_semijuggalo_175
+    21300352: blossom_sprite_sheet_by_semijuggalo_176
+    21300354: blossom_sprite_sheet_by_semijuggalo_177
+    21300356: blossom_sprite_sheet_by_semijuggalo_178
+    21300358: blossom_sprite_sheet_by_semijuggalo_179
+    21300360: blossom_sprite_sheet_by_semijuggalo_180
+    21300362: blossom_sprite_sheet_by_semijuggalo_181
+    21300364: blossom_sprite_sheet_by_semijuggalo_182
+    21300366: blossom_sprite_sheet_by_semijuggalo_183
+    21300368: blossom_sprite_sheet_by_semijuggalo_184
+    21300370: blossom_sprite_sheet_by_semijuggalo_185
+    21300372: blossom_sprite_sheet_by_semijuggalo_186
+    21300374: blossom_sprite_sheet_by_semijuggalo_187
+    21300376: blossom_sprite_sheet_by_semijuggalo_188
+    21300378: blossom_sprite_sheet_by_semijuggalo_189
+    21300380: blossom_sprite_sheet_by_semijuggalo_190
+    21300382: blossom_sprite_sheet_by_semijuggalo_191
+    21300384: blossom_sprite_sheet_by_semijuggalo_192
+    21300386: blossom_sprite_sheet_by_semijuggalo_193
+    21300388: blossom_sprite_sheet_by_semijuggalo_194
+    21300390: blossom_sprite_sheet_by_semijuggalo_195
+    21300392: blossom_sprite_sheet_by_semijuggalo_196
+    21300394: blossom_sprite_sheet_by_semijuggalo_197
+    21300396: blossom_sprite_sheet_by_semijuggalo_198
+    21300398: blossom_sprite_sheet_by_semijuggalo_199
+    21300400: blossom_sprite_sheet_by_semijuggalo_200
+    21300402: blossom_sprite_sheet_by_semijuggalo_201
+    21300404: blossom_sprite_sheet_by_semijuggalo_202
+    21300406: blossom_sprite_sheet_by_semijuggalo_203
+    21300408: blossom_sprite_sheet_by_semijuggalo_204
+    21300410: blossom_sprite_sheet_by_semijuggalo_205
+    21300412: blossom_sprite_sheet_by_semijuggalo_206
+    21300414: blossom_sprite_sheet_by_semijuggalo_207
+    21300416: blossom_sprite_sheet_by_semijuggalo_208
+    21300418: blossom_sprite_sheet_by_semijuggalo_209
+    21300420: blossom_sprite_sheet_by_semijuggalo_210
+    21300422: blossom_sprite_sheet_by_semijuggalo_211
+    21300424: blossom_sprite_sheet_by_semijuggalo_212
+    21300426: blossom_sprite_sheet_by_semijuggalo_213
+    21300428: blossom_sprite_sheet_by_semijuggalo_214
+    21300430: blossom_sprite_sheet_by_semijuggalo_215
+    21300432: blossom_sprite_sheet_by_semijuggalo_216
+    21300434: blossom_sprite_sheet_by_semijuggalo_217
+    21300436: blossom_sprite_sheet_by_semijuggalo_218
+    21300438: blossom_sprite_sheet_by_semijuggalo_219
+    21300440: blossom_sprite_sheet_by_semijuggalo_220
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blossom_sprite_sheet_by_semijuggalo_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 977
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 978
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 977
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 977
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 977
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 977
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 974
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 978
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 978
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 977
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 977
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 974
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 978
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 978
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 978
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 978
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 978
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 977
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 977
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 977
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_28
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 975
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 975
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 975
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 975
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 975
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 976
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 975
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 975
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 900
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29.5}
+        - {x: -20, y: 27.5}
+        - {x: -20, y: -29.5}
+        - {x: 20, y: -29.5}
+        - {x: 20, y: 12.5}
+        - {x: 8, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 901
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 29.5}
+        - {x: -4.5, y: 26.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: -1.5}
+        - {x: -17.5, y: -3.5}
+        - {x: -14.5, y: -2.5}
+        - {x: -6.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 21.5, y: 21.5}
+        - {x: 13.5, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 904
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 28}
+        - {x: 6.5, y: 27}
+        - {x: 5.5, y: 28}
+        - {x: -4.5, y: 28}
+        - {x: -5.5, y: 18}
+        - {x: -23.5, y: 20}
+        - {x: -23.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 23.5, y: 19}
+        - {x: 14.5, y: 28}
+    - name: blossom_sprite_sheet_by_semijuggalo_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 900
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.5}
+        - {x: -21.5, y: 19.5}
+        - {x: -21.5, y: -20.5}
+        - {x: -16.5, y: -29.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 21.5, y: -2.5}
+        - {x: 21.5, y: 24.5}
+        - {x: 17.5, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 902
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29}
+        - {x: -23, y: 11}
+        - {x: -23, y: -20}
+        - {x: -14, y: -27}
+        - {x: -7, y: -29}
+        - {x: 23, y: -29}
+        - {x: 23, y: 28}
+        - {x: 17, y: 29}
+    - name: blossom_sprite_sheet_by_semijuggalo_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 920
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -1}
+        - {x: 31, y: 14}
+        - {x: 24, y: 19}
+        - {x: -25, y: 19}
+        - {x: -36, y: 5}
+    - name: blossom_sprite_sheet_by_semijuggalo_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 905
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29.5}
+        - {x: -20, y: 24.5}
+        - {x: -20, y: -28.5}
+        - {x: -19, y: -29.5}
+        - {x: 20, y: -29.5}
+        - {x: 20, y: 14.5}
+        - {x: 12, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 906
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 29.5}
+        - {x: -23, y: -28.5}
+        - {x: -22, y: -29.5}
+        - {x: 23, y: -29.5}
+        - {x: 23, y: 22.5}
+        - {x: 17, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_44
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 908
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 28}
+        - {x: 6.5, y: 27}
+        - {x: 5.5, y: 28}
+        - {x: -4.5, y: 28}
+        - {x: -5.5, y: 18}
+        - {x: -23.5, y: 20}
+        - {x: -23.5, y: -28}
+        - {x: 23.5, y: -28}
+        - {x: 23.5, y: 9}
+        - {x: 13.5, y: 28}
+    - name: blossom_sprite_sheet_by_semijuggalo_45
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 906
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.5}
+        - {x: -21.5, y: 19.5}
+        - {x: -21.5, y: -20.5}
+        - {x: -16.5, y: -29.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 21.5, y: -2.5}
+        - {x: 21.5, y: 24.5}
+        - {x: 17.5, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 903
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 29}
+        - {x: -17.5, y: 18}
+        - {x: -22.5, y: 9}
+        - {x: -22.5, y: -16}
+        - {x: -16.5, y: -24}
+        - {x: -13.5, y: -27}
+        - {x: -8.5, y: -25}
+        - {x: -3.5, y: -21}
+        - {x: 5.5, y: -29}
+        - {x: 22.5, y: -29}
+        - {x: 22.5, y: 27}
+        - {x: 15.5, y: 29}
+    - name: blossom_sprite_sheet_by_semijuggalo_47
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 923
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 19}
+        - {x: -11, y: 19}
+        - {x: -36, y: 11}
+        - {x: -36, y: -15}
+        - {x: -34, y: -18}
+        - {x: -21, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -2}
+    - name: blossom_sprite_sheet_by_semijuggalo_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 882
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 19}
+        - {x: -17, y: 19}
+        - {x: -33, y: 10}
+        - {x: -36, y: 5}
+        - {x: -36, y: -18}
+        - {x: -29, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -3}
+        - {x: 30, y: 14}
+    - name: blossom_sprite_sheet_by_semijuggalo_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 834
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -21, y: 1}
+        - {x: -21, y: -22}
+        - {x: -16, y: -26}
+        - {x: 21, y: -26}
+        - {x: 21, y: 12}
+        - {x: 11, y: 26}
+    - name: blossom_sprite_sheet_by_semijuggalo_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 830
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 33}
+        - {x: 6, y: 32}
+        - {x: 5, y: 33}
+        - {x: -5, y: 33}
+        - {x: -6, y: 25}
+        - {x: -21, y: 3}
+        - {x: -21, y: -13}
+        - {x: -20, y: -14}
+        - {x: -17, y: -14}
+        - {x: -15, y: -32}
+        - {x: -14, y: -33}
+        - {x: 17, y: -33}
+        - {x: 21, y: -19}
+        - {x: 21, y: 30}
+        - {x: 14, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 830
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 33}
+        - {x: -9, y: 33}
+        - {x: -19, y: 14}
+        - {x: -20, y: 9}
+        - {x: -20, y: -17}
+        - {x: -13, y: -17}
+        - {x: -9, y: -15}
+        - {x: -8, y: -10}
+        - {x: -7, y: -13}
+        - {x: -10, y: -15}
+        - {x: -12, y: -17}
+        - {x: -17, y: -20}
+        - {x: -16, y: -32}
+        - {x: -15, y: -33}
+        - {x: 3, y: -33}
+        - {x: 20, y: -14}
+        - {x: 20, y: 20}
+    - name: blossom_sprite_sheet_by_semijuggalo_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 830
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 33}
+        - {x: -17.5, y: 13}
+        - {x: -22.5, y: 2}
+        - {x: -22.5, y: -22}
+        - {x: -15.5, y: -33}
+        - {x: 6.5, y: -33}
+        - {x: 12.5, y: -31}
+        - {x: 22.5, y: -12}
+        - {x: 22.5, y: 20}
+        - {x: 14.5, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_53
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 830
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 33}
+        - {x: -24.5, y: 20}
+        - {x: -24.5, y: -24}
+        - {x: -20.5, y: -33}
+        - {x: 18.5, y: -33}
+        - {x: 24.5, y: -20}
+        - {x: 24.5, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_54
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 885
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -17, y: 19}
+        - {x: -33, y: 10}
+        - {x: -36, y: 5}
+        - {x: -36, y: -18}
+        - {x: -29, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -4}
+        - {x: 28, y: 11}
+    - name: blossom_sprite_sheet_by_semijuggalo_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 821
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -21, y: 1}
+        - {x: -21, y: -22}
+        - {x: -16, y: -26}
+        - {x: 21, y: -26}
+        - {x: 21, y: 12}
+        - {x: 11, y: 26}
+    - name: blossom_sprite_sheet_by_semijuggalo_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 817
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 33}
+        - {x: 6, y: 32}
+        - {x: 5, y: 33}
+        - {x: -5, y: 33}
+        - {x: -6, y: 25}
+        - {x: -21, y: 3}
+        - {x: -21, y: -13}
+        - {x: -20, y: -14}
+        - {x: -17, y: -14}
+        - {x: -15, y: -32}
+        - {x: -14, y: -33}
+        - {x: 5, y: -33}
+        - {x: 21, y: -19}
+        - {x: 21, y: 24}
+        - {x: 17, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_57
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 817
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 33}
+        - {x: -19, y: 14}
+        - {x: -20, y: 9}
+        - {x: -20, y: -17}
+        - {x: -13, y: -17}
+        - {x: -9, y: -15}
+        - {x: -8, y: -10}
+        - {x: -7, y: -13}
+        - {x: -10, y: -15}
+        - {x: -12, y: -17}
+        - {x: -17, y: -20}
+        - {x: -16, y: -32}
+        - {x: -15, y: -33}
+        - {x: -3, y: -33}
+        - {x: 9, y: -30}
+        - {x: 20, y: -17}
+        - {x: 20, y: 21}
+        - {x: 15, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 817
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 33}
+        - {x: -17.5, y: 13}
+        - {x: -22.5, y: 4}
+        - {x: -22.5, y: -21}
+        - {x: -13.5, y: -33}
+        - {x: -3.5, y: -33}
+        - {x: 8.5, y: -28}
+        - {x: 22.5, y: -15}
+        - {x: 22.5, y: 19}
+        - {x: 15.5, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 817
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 33}
+        - {x: -24.5, y: -33}
+        - {x: 5.5, y: -33}
+        - {x: 24.5, y: -19}
+        - {x: 24.5, y: 27}
+        - {x: 14.5, y: 33}
+    - name: blossom_sprite_sheet_by_semijuggalo_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 844
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 19}
+        - {x: -36, y: 19}
+        - {x: -36, y: -18}
+        - {x: -31, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -2}
+    - name: blossom_sprite_sheet_by_semijuggalo_61
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 847
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 19}
+        - {x: -23, y: 19}
+        - {x: -36, y: 12}
+        - {x: -36, y: -18}
+        - {x: -35, y: -19}
+        - {x: 36, y: -19}
+        - {x: 36, y: -2}
+    - name: blossom_sprite_sheet_by_semijuggalo_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 735
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30}
+        - {x: -19, y: 18}
+        - {x: -19, y: -30}
+        - {x: 19, y: -30}
+        - {x: 19, y: 19}
+        - {x: 9, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 735
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29}
+        - {x: -26, y: 12}
+        - {x: -26, y: -29}
+        - {x: 20, y: -29}
+        - {x: 26, y: -16}
+        - {x: 26, y: 17}
+        - {x: 14, y: 29}
+    - name: blossom_sprite_sheet_by_semijuggalo_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 735
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -17}
+        - {x: -14, y: -30}
+        - {x: 26, y: -30}
+        - {x: 26, y: 30}
+        - {x: -12, y: 30}
+        - {x: -26, y: 16}
+    - name: blossom_sprite_sheet_by_semijuggalo_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 735
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 30}
+        - {x: -28.5, y: 26}
+        - {x: -28.5, y: -30}
+        - {x: 26.5, y: -30}
+        - {x: 28.5, y: -28}
+        - {x: 28.5, y: 27}
+        - {x: 26.5, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 736
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 31}
+        - {x: -20, y: 14}
+        - {x: -20, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: 17}
+        - {x: 15, y: 31}
+    - name: blossom_sprite_sheet_by_semijuggalo_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 736
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -20}
+        - {x: 27.5, y: 7}
+        - {x: 26.5, y: 8}
+        - {x: 15.5, y: 8}
+        - {x: 13.5, y: 7}
+        - {x: 18.5, y: 9}
+        - {x: 22.5, y: 11}
+        - {x: 17.5, y: 21}
+        - {x: -3.5, y: 30}
+        - {x: -22.5, y: 30}
+        - {x: -27.5, y: -1}
+        - {x: -27.5, y: -30}
+        - {x: -17.5, y: -30}
+        - {x: -15.5, y: -28}
+        - {x: -11.5, y: -30}
+        - {x: 22.5, y: -30}
+    - name: blossom_sprite_sheet_by_semijuggalo_68
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 736
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 30}
+        - {x: -22.5, y: 17}
+        - {x: -22.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: 21}
+        - {x: 10.5, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_69
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 745
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30}
+        - {x: -19, y: -30}
+        - {x: 19, y: -30}
+        - {x: 19, y: 19}
+        - {x: 13, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 745
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 29}
+        - {x: -14, y: 29}
+        - {x: -26, y: 19}
+        - {x: -26, y: -28}
+        - {x: -22, y: -29}
+        - {x: 19, y: -29}
+        - {x: 26, y: -8}
+        - {x: 26, y: 11}
+    - name: blossom_sprite_sheet_by_semijuggalo_71
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 745
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -26, y: 16}
+        - {x: -26, y: -18}
+        - {x: -14, y: -30}
+        - {x: 26, y: -30}
+        - {x: 26, y: 20}
+        - {x: 14, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_72
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 746
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 30}
+        - {x: -28.5, y: 26}
+        - {x: -28.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 28.5, y: -13}
+        - {x: 28.5, y: 17}
+        - {x: 22.5, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_73
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 746
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 31}
+        - {x: -20, y: 15}
+        - {x: -20, y: -2}
+        - {x: -17, y: -4}
+        - {x: -20, y: -16}
+        - {x: -20, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: 14}
+        - {x: 14, y: 31}
+    - name: blossom_sprite_sheet_by_semijuggalo_74
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 746
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 30}
+        - {x: -27.5, y: 30}
+        - {x: -27.5, y: -30}
+        - {x: 12.5, y: -30}
+        - {x: 13.5, y: -25}
+        - {x: 27.5, y: -10}
+        - {x: 27.5, y: 26}
+    - name: blossom_sprite_sheet_by_semijuggalo_75
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 746
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 30}
+        - {x: -22.5, y: 24}
+        - {x: -22.5, y: -16}
+        - {x: -14.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: 17}
+        - {x: 11.5, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 658
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 26.5}
+        - {x: 2.5, y: 26.5}
+        - {x: 1.5, y: 25.5}
+        - {x: 0.5, y: 26.5}
+        - {x: -9.5, y: 26.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -9.5, y: -26.5}
+        - {x: 25.5, y: -26.5}
+        - {x: 25.5, y: -1.5}
+        - {x: 22.5, y: 6.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 663
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24.5}
+        - {x: -41.5, y: 9.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -26.5, y: -24.5}
+        - {x: 41.5, y: -24.5}
+        - {x: 41.5, y: 2.5}
+        - {x: 8.5, y: 24.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 658
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 27.5}
+        - {x: -19.5, y: 23.5}
+        - {x: -22.5, y: 14.5}
+        - {x: -22.5, y: -16.5}
+        - {x: -12.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 22.5, y: 27.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 663
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_80
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 666
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 26.5}
+        - {x: 2.5, y: 26.5}
+        - {x: 1.5, y: 25.5}
+        - {x: 0.5, y: 26.5}
+        - {x: -9.5, y: 26.5}
+        - {x: -10.5, y: 18.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -25.5, y: -20.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -6.5, y: -26.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: -7.5}
+        - {x: 20.5, y: 5.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_81
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 671
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24.5}
+        - {x: -41.5, y: 9.5}
+        - {x: -41.5, y: -3.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 41.5, y: -24.5}
+        - {x: 41.5, y: 2.5}
+        - {x: 8.5, y: 24.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_82
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 666
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 14.5}
+        - {x: -22.5, y: -16.5}
+        - {x: -12.5, y: -27.5}
+        - {x: 22.5, y: -27.5}
+        - {x: 22.5, y: 27.5}
+        - {x: -6.5, y: 27.5}
+        - {x: -19.5, y: 23.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_83
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 671
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_84
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 590
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 29}
+        - {x: -21.5, y: 25}
+        - {x: -21.5, y: -24}
+        - {x: -19.5, y: -29}
+        - {x: 21.5, y: -29}
+        - {x: 21.5, y: 17}
+        - {x: 17.5, y: 29}
+    - name: blossom_sprite_sheet_by_semijuggalo_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 590
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 29.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 17, y: 15.5}
+        - {x: 1, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_86
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 590
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -29}
+        - {x: 12.5, y: -15}
+        - {x: 22.5, y: -17}
+        - {x: 26.5, y: -17}
+        - {x: 27.5, y: -16}
+        - {x: 27.5, y: 26}
+        - {x: 25.5, y: 29}
+        - {x: -11.5, y: 29}
+        - {x: -27.5, y: 11}
+        - {x: -27.5, y: -27}
+        - {x: -23.5, y: -29}
+        - {x: -6.5, y: -29}
+        - {x: -5.5, y: -28}
+        - {x: -5.5, y: -26}
+        - {x: -4.5, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_87
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 589
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -29}
+        - {x: 26, y: -21}
+        - {x: 26, y: 27}
+        - {x: 25, y: 29}
+        - {x: -16, y: 29}
+        - {x: -26, y: 21}
+        - {x: -26, y: -28}
+        - {x: -23, y: -29}
+        - {x: -7, y: -29}
+        - {x: -7, y: -26}
+        - {x: -6, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_88
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 588
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -29}
+        - {x: 11, y: -15}
+        - {x: 21, y: -17}
+        - {x: 26, y: -17}
+        - {x: 26, y: 27}
+        - {x: 25, y: 29}
+        - {x: -17, y: 29}
+        - {x: -26, y: 22}
+        - {x: -26, y: -29}
+        - {x: -7, y: -29}
+        - {x: -7, y: -26}
+        - {x: -6, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_89
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 588
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -29}
+        - {x: 23.5, y: -26}
+        - {x: 23.5, y: 20}
+        - {x: 11.5, y: 29}
+        - {x: -9.5, y: 29}
+        - {x: -12.5, y: 21}
+        - {x: -23.5, y: -15}
+        - {x: -23.5, y: -28}
+        - {x: -22.5, y: -29}
+        - {x: -10.5, y: -29}
+        - {x: -9.5, y: -28}
+        - {x: -9.5, y: -26}
+        - {x: -8.5, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_90
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 587
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 29}
+        - {x: -21.5, y: 25}
+        - {x: -21.5, y: -24}
+        - {x: -19.5, y: -29}
+        - {x: 21.5, y: -29}
+        - {x: 21.5, y: 17}
+        - {x: 17.5, y: 29}
+    - name: blossom_sprite_sheet_by_semijuggalo_91
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 587
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 29.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -29.5}
+        - {x: 17, y: -29.5}
+        - {x: 17, y: 15.5}
+        - {x: 1, y: 29.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_92
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 587
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -29}
+        - {x: 14.5, y: -28}
+        - {x: 11.5, y: -16}
+        - {x: 22.5, y: -17}
+        - {x: 26.5, y: -16}
+        - {x: 27.5, y: -12}
+        - {x: 27.5, y: 22}
+        - {x: 13.5, y: 29}
+        - {x: -17.5, y: 29}
+        - {x: -27.5, y: 17}
+        - {x: -27.5, y: -29}
+        - {x: -6.5, y: -29}
+        - {x: -5.5, y: -28}
+        - {x: -5.5, y: -26}
+        - {x: -4.5, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_93
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 587
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -29}
+        - {x: 26, y: 29}
+        - {x: -19, y: 29}
+        - {x: -26, y: 22}
+        - {x: -26, y: -28}
+        - {x: -23, y: -29}
+        - {x: -7, y: -29}
+        - {x: -7, y: -26}
+        - {x: -6, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_94
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 587
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -29}
+        - {x: 26, y: 27}
+        - {x: 25, y: 29}
+        - {x: -17, y: 29}
+        - {x: -26, y: 22}
+        - {x: -26, y: -29}
+        - {x: -7, y: -29}
+        - {x: -7, y: -26}
+        - {x: -6, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_95
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 587
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -29}
+        - {x: 10.5, y: -28}
+        - {x: 7.5, y: -16}
+        - {x: 18.5, y: -17}
+        - {x: 22.5, y: -17}
+        - {x: 23.5, y: -13}
+        - {x: 23.5, y: 21}
+        - {x: 16.5, y: 29}
+        - {x: -11.5, y: 29}
+        - {x: -19.5, y: 24}
+        - {x: -23.5, y: -7}
+        - {x: -23.5, y: -28}
+        - {x: -22.5, y: -29}
+        - {x: -10.5, y: -29}
+        - {x: -9.5, y: -28}
+        - {x: -9.5, y: -26}
+        - {x: -8.5, y: -29}
+    - name: blossom_sprite_sheet_by_semijuggalo_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 495
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 12.5}
+        - {x: 17.5, y: 19.5}
+        - {x: 4.5, y: 35.5}
+        - {x: -12.5, y: 35.5}
+        - {x: -15.5, y: 33.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -18.5, y: -34.5}
+        - {x: -15.5, y: -35.5}
+        - {x: 16.5, y: -35.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 12.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_97
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 495
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 36}
+        - {x: -17.5, y: 36}
+        - {x: -20.5, y: 28}
+        - {x: -20.5, y: -32}
+        - {x: -16.5, y: -36}
+        - {x: 16.5, y: -36}
+        - {x: 20.5, y: -25}
+        - {x: 20.5, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_98
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 495
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 36}
+        - {x: -13.5, y: 36}
+        - {x: -15.5, y: 34}
+        - {x: -20.5, y: 14}
+        - {x: -20.5, y: -36}
+        - {x: 16.5, y: -36}
+        - {x: 20.5, y: -23}
+        - {x: 20.5, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_99
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 494
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 20.5}
+        - {x: 4.5, y: 35.5}
+        - {x: -12.5, y: 35.5}
+        - {x: -15.5, y: 33.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -22.5}
+        - {x: -18.5, y: -34.5}
+        - {x: -15.5, y: -35.5}
+        - {x: 16.5, y: -35.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 12.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_100
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 494
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 36}
+        - {x: -16.5, y: 36}
+        - {x: -20.5, y: 24}
+        - {x: -20.5, y: -30}
+        - {x: -17.5, y: -34}
+        - {x: -14.5, y: -36}
+        - {x: 16.5, y: -36}
+        - {x: 20.5, y: -26}
+        - {x: 20.5, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_101
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 494
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 36}
+        - {x: -20.5, y: 26}
+        - {x: -20.5, y: -36}
+        - {x: 20.5, y: -36}
+        - {x: 20.5, y: 21}
+        - {x: 5.5, y: 36}
+    - name: blossom_sprite_sheet_by_semijuggalo_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -28, y: -12.5}
+        - {x: 61, y: -27.5}
+        - {x: 65, y: -26.5}
+        - {x: 65, y: 18.5}
+        - {x: 50, y: 28.5}
+        - {x: -65, y: 28.5}
+        - {x: -65, y: -18.5}
+        - {x: -57, y: -28.5}
+        - {x: -24, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 409
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -14.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -27.5, y: -12.5}
+        - {x: 61.5, y: -27.5}
+        - {x: 65.5, y: -16.5}
+        - {x: 65.5, y: 11.5}
+        - {x: 8.5, y: 28.5}
+        - {x: -65.5, y: 28.5}
+        - {x: -65.5, y: 5.5}
+        - {x: -62.5, y: 3.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -22.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_104
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 409
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -28, y: -12.5}
+        - {x: 61, y: -27.5}
+        - {x: 65, y: -16.5}
+        - {x: 65, y: 14.5}
+        - {x: -25, y: 28.5}
+        - {x: -53, y: 28.5}
+        - {x: -65, y: 11.5}
+        - {x: -65, y: -19.5}
+        - {x: -47, y: -28.5}
+        - {x: -18, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 408
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -27, y: -12.5}
+        - {x: 60, y: -26.5}
+        - {x: 65, y: -25.5}
+        - {x: 65, y: 18.5}
+        - {x: 50, y: 28.5}
+        - {x: -65, y: 28.5}
+        - {x: -65, y: -18.5}
+        - {x: -57, y: -28.5}
+        - {x: -24, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 407
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -14.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -26.5, y: -12.5}
+        - {x: 60.5, y: -26.5}
+        - {x: 65.5, y: -15.5}
+        - {x: 65.5, y: 11.5}
+        - {x: 8.5, y: 28.5}
+        - {x: -65.5, y: 28.5}
+        - {x: -65.5, y: 5.5}
+        - {x: -62.5, y: 3.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -22.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_107
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 407
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -27, y: -12.5}
+        - {x: 60, y: -26.5}
+        - {x: 65, y: -15.5}
+        - {x: 65, y: 14.5}
+        - {x: -25, y: 28.5}
+        - {x: -53, y: 28.5}
+        - {x: -65, y: 11.5}
+        - {x: -65, y: -19.5}
+        - {x: -47, y: -28.5}
+        - {x: -18, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 343
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -28, y: -12.5}
+        - {x: 61, y: -27.5}
+        - {x: 65, y: -26.5}
+        - {x: 65, y: 18.5}
+        - {x: 50, y: 28.5}
+        - {x: -65, y: 28.5}
+        - {x: -65, y: -18.5}
+        - {x: -57, y: -28.5}
+        - {x: -24, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 343
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -14.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -27.5, y: -12.5}
+        - {x: 61.5, y: -27.5}
+        - {x: 65.5, y: -16.5}
+        - {x: 65.5, y: 11.5}
+        - {x: 8.5, y: 28.5}
+        - {x: -65.5, y: 28.5}
+        - {x: -65.5, y: 5.5}
+        - {x: -62.5, y: 3.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -22.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_110
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 343
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -28, y: -12.5}
+        - {x: 61, y: -27.5}
+        - {x: 65, y: -16.5}
+        - {x: 65, y: 14.5}
+        - {x: -25, y: 28.5}
+        - {x: -53, y: 28.5}
+        - {x: -65, y: 11.5}
+        - {x: -65, y: -19.5}
+        - {x: -47, y: -28.5}
+        - {x: -18, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 341
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -27, y: -12.5}
+        - {x: 60, y: -26.5}
+        - {x: 65, y: -25.5}
+        - {x: 65, y: 18.5}
+        - {x: 50, y: 28.5}
+        - {x: -65, y: 28.5}
+        - {x: -65, y: -18.5}
+        - {x: -57, y: -28.5}
+        - {x: -24, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_112
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 341
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -14.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -30.5, y: -11.5}
+        - {x: -26.5, y: -12.5}
+        - {x: 60.5, y: -26.5}
+        - {x: 65.5, y: -15.5}
+        - {x: 65.5, y: 11.5}
+        - {x: 8.5, y: 28.5}
+        - {x: -65.5, y: 28.5}
+        - {x: -65.5, y: 5.5}
+        - {x: -62.5, y: 3.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -22.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_113
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 341
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -14.5}
+        - {x: -33, y: -10.5}
+        - {x: -31, y: -11.5}
+        - {x: -27, y: -12.5}
+        - {x: 60, y: -26.5}
+        - {x: 65, y: -15.5}
+        - {x: 65, y: 14.5}
+        - {x: -25, y: 28.5}
+        - {x: -53, y: 28.5}
+        - {x: -65, y: 11.5}
+        - {x: -65, y: -19.5}
+        - {x: -47, y: -28.5}
+        - {x: -18, y: -28.5}
+        - {x: -17, y: -17.5}
+        - {x: -23, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 266
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -14.5}
+        - {x: 0.5, y: -10.5}
+        - {x: 2.5, y: -11.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 11.5, y: -10.5}
+        - {x: 25.5, y: -9.5}
+        - {x: 31.5, y: -6.5}
+        - {x: 31.5, y: 10.5}
+        - {x: 6.5, y: 28.5}
+        - {x: -24.5, y: 28.5}
+        - {x: -31.5, y: 21.5}
+        - {x: -31.5, y: -18.5}
+        - {x: -23.5, y: -28.5}
+        - {x: 9.5, y: -28.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 10.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 279
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_116
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: blossom_sprite_sheet_by_semijuggalo_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -14.5}
+        - {x: -0.5, y: -10.5}
+        - {x: 1.5, y: -11.5}
+        - {x: 11.5, y: -12.5}
+        - {x: 30.5, y: -6.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 3.5, y: 28.5}
+        - {x: -26.5, y: 28.5}
+        - {x: -30.5, y: 24.5}
+        - {x: -30.5, y: -5.5}
+        - {x: -19.5, y: -28.5}
+        - {x: 8.5, y: -28.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 9.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_118
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 279
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 271
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_120
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 266
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 28.5}
+        - {x: -22, y: 1.5}
+        - {x: -22, y: -7.5}
+        - {x: -16, y: -11.5}
+        - {x: -3, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 22, y: -26.5}
+        - {x: 22, y: 23.5}
+        - {x: 14, y: 28.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_121
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 289
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_122
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 279
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_123
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 271
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_124
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 264
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -14.5}
+        - {x: 0.5, y: -10.5}
+        - {x: 2.5, y: -11.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 29.5, y: -7.5}
+        - {x: 31.5, y: -6.5}
+        - {x: 31.5, y: 8.5}
+        - {x: 6.5, y: 28.5}
+        - {x: -22.5, y: 28.5}
+        - {x: -31.5, y: 20.5}
+        - {x: -31.5, y: -18.5}
+        - {x: -23.5, y: -28.5}
+        - {x: 9.5, y: -28.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 10.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_125
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 277
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_126
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: blossom_sprite_sheet_by_semijuggalo_127
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -14.5}
+        - {x: -0.5, y: -10.5}
+        - {x: 1.5, y: -11.5}
+        - {x: 5.5, y: -12.5}
+        - {x: 28.5, y: -7.5}
+        - {x: 30.5, y: -4.5}
+        - {x: 30.5, y: 9.5}
+        - {x: 7.5, y: 28.5}
+        - {x: -19.5, y: 28.5}
+        - {x: -30.5, y: 21.5}
+        - {x: -30.5, y: -5.5}
+        - {x: -19.5, y: -28.5}
+        - {x: 8.5, y: -28.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 9.5, y: -14.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_128
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 277
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_129
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 269
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_130
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 264
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -14.5}
+        - {x: 10, y: -10.5}
+        - {x: 12, y: -11.5}
+        - {x: 16, y: -12.5}
+        - {x: 22, y: -9.5}
+        - {x: 22, y: 21.5}
+        - {x: 13, y: 28.5}
+        - {x: -11, y: 28.5}
+        - {x: -22, y: 11.5}
+        - {x: -22, y: -7.5}
+        - {x: -16, y: -11.5}
+        - {x: -3, y: -28.5}
+        - {x: 19, y: -28.5}
+        - {x: 22, y: -26.5}
+        - {x: 22, y: -14.5}
+        - {x: 21, y: -12.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_131
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 287
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_132
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 277
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_133
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 269
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 24.5}
+        - {x: 15.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_135
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 225
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_136
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 215
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_137
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 207
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 200
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 24.5}
+        - {x: 15.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_139
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 223
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_140
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 214
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_141
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 199
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 24.5}
+        - {x: 15.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 200
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 10.5, y: -12.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 13.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_143
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 223
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_144
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 213
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_145
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 205
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_146
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 196
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 10.5, y: -12.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 13.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_147
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 219
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_148
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 210
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_149
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 195
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -11.5}
+        - {x: 10.5, y: -12.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 13.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_150
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 13}
+        - {x: 16, y: 37}
+        - {x: -7, y: 37}
+        - {x: -21, y: 28}
+        - {x: -23, y: 20}
+        - {x: -23, y: 0}
+        - {x: -18, y: -3}
+        - {x: -13, y: -35}
+        - {x: -11, y: -37}
+        - {x: 18, y: -37}
+        - {x: 23, y: -17}
+    - name: blossom_sprite_sheet_by_semijuggalo_151
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 110
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 37}
+        - {x: -25.5, y: 34}
+        - {x: -25.5, y: -37}
+        - {x: 21.5, y: -37}
+        - {x: 25.5, y: -29}
+        - {x: 25.5, y: 30}
+        - {x: 18.5, y: 37}
+    - name: blossom_sprite_sheet_by_semijuggalo_152
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 110
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 37}
+        - {x: -25, y: -37}
+        - {x: 20, y: -37}
+        - {x: 25, y: -17}
+        - {x: 25, y: 29}
+        - {x: 23, y: 37}
+    - name: blossom_sprite_sheet_by_semijuggalo_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 110
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 37}
+        - {x: -12, y: 37}
+        - {x: -24, y: 32}
+        - {x: -24, y: -17}
+        - {x: -12, y: -37}
+        - {x: 19, y: -37}
+        - {x: 24, y: -17}
+        - {x: 24, y: 30}
+    - name: blossom_sprite_sheet_by_semijuggalo_154
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 111
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 23}
+        - {x: -19.5, y: 5}
+        - {x: -21.5, y: -3}
+        - {x: -21.5, y: -23}
+        - {x: 21.5, y: -23}
+        - {x: 21.5, y: -1}
+        - {x: 19.5, y: 7}
+        - {x: 7.5, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_155
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 19}
+        - {x: -22.5, y: -11}
+        - {x: -22.5, y: -19}
+        - {x: 22.5, y: -19}
+        - {x: 22.5, y: 19}
+    - name: blossom_sprite_sheet_by_semijuggalo_156
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 111
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -9.5}
+        - {x: -22.5, y: -18.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 22.5, y: 18.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -10.5, y: 17.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_157
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 106
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37}
+        - {x: -23, y: -37}
+        - {x: 22, y: -37}
+        - {x: 23, y: -35}
+        - {x: 23, y: 27}
+        - {x: 17, y: 37}
+    - name: blossom_sprite_sheet_by_semijuggalo_158
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 107
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 37}
+        - {x: -7.5, y: 37}
+        - {x: -25.5, y: 25}
+        - {x: -25.5, y: -26}
+        - {x: -17.5, y: -37}
+        - {x: 20.5, y: -37}
+        - {x: 25.5, y: -17}
+        - {x: 25.5, y: 22}
+    - name: blossom_sprite_sheet_by_semijuggalo_159
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 106
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 37}
+        - {x: -25, y: 28}
+        - {x: -25, y: 2}
+        - {x: -19, y: -4}
+        - {x: -18, y: -37}
+        - {x: 20, y: -37}
+        - {x: 25, y: -28}
+        - {x: 25, y: 31}
+        - {x: 20, y: 37}
+    - name: blossom_sprite_sheet_by_semijuggalo_160
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 106
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 37}
+        - {x: 7, y: 37}
+        - {x: 6, y: 35}
+        - {x: 5, y: 31}
+        - {x: 0, y: 37}
+        - {x: -9, y: 37}
+        - {x: -20, y: 28}
+        - {x: -24, y: 19}
+        - {x: -24, y: -17}
+        - {x: -12, y: -37}
+        - {x: 19, y: -37}
+        - {x: 24, y: -21}
+        - {x: 24, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_161
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 107
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 23}
+        - {x: -14.5, y: 21}
+        - {x: -21.5, y: -8}
+        - {x: -21.5, y: -23}
+        - {x: 21.5, y: -23}
+        - {x: 21.5, y: 3}
+        - {x: 12.5, y: 23}
+    - name: blossom_sprite_sheet_by_semijuggalo_162
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 107
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 19}
+        - {x: -22.5, y: -11}
+        - {x: -22.5, y: -19}
+        - {x: 22.5, y: -19}
+        - {x: 22.5, y: 19}
+    - name: blossom_sprite_sheet_by_semijuggalo_163
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 107
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -9.5}
+        - {x: -22.5, y: -18.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 22.5, y: 18.5}
+        - {x: -7.5, y: 18.5}
+        - {x: -10.5, y: 17.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_164
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 194
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: 43.5}
+        - {x: -97, y: -43.5}
+        - {x: 97, y: -43.5}
+        - {x: 97, y: 43.5}
+      - - {x: -93, y: 39.5}
+        - {x: 93, y: 39.5}
+        - {x: 93, y: -39.5}
+        - {x: -93, y: -39.5}
+      - - {x: 31, y: -9.5}
+        - {x: 31, y: -32.5}
+        - {x: 44, y: -40.5}
+        - {x: 70, y: -40.5}
+        - {x: 88, y: -26.5}
+        - {x: 88, y: -11.5}
+        - {x: 84, y: -4.5}
+        - {x: 65, y: 4.5}
+        - {x: 51, y: 4.5}
+        - {x: 33, y: -4.5}
+      - - {x: -92, y: -27.5}
+        - {x: -86, y: -35.5}
+        - {x: -82, y: -37.5}
+        - {x: -51, y: -37.5}
+        - {x: -33, y: -29.5}
+        - {x: -33, y: -11.5}
+        - {x: -37, y: -3.5}
+        - {x: -52, y: 1.5}
+        - {x: -76, y: 1.5}
+        - {x: -92, y: -9.5}
+      - - {x: -20, y: 1.5}
+        - {x: -27, y: -6.5}
+        - {x: -27, y: -28.5}
+        - {x: -20, y: -37.5}
+        - {x: 12, y: -37.5}
+        - {x: 27, y: -21.5}
+        - {x: 27, y: -14.5}
+        - {x: 12, y: 1.5}
+      - - {x: -93, y: 22.5}
+        - {x: -93, y: 9.5}
+        - {x: -56, y: 9.5}
+        - {x: -42, y: 11.5}
+        - {x: -42, y: 22.5}
+      - - {x: -14, y: 19.5}
+        - {x: -18, y: 15.5}
+        - {x: -18, y: 14.5}
+        - {x: -14, y: 10.5}
+        - {x: 52, y: 10.5}
+        - {x: 55, y: 13.5}
+        - {x: 55, y: 16.5}
+        - {x: 52, y: 19.5}
+      - - {x: -80, y: 36.5}
+        - {x: -94, y: 36.5}
+        - {x: -94, y: 25.5}
+        - {x: -90, y: 23.5}
+        - {x: -71, y: 23.5}
+        - {x: -70, y: 25.5}
+        - {x: -70, y: 33.5}
+      - - {x: -47, y: 36.5}
+        - {x: -66, y: 36.5}
+        - {x: -66, y: 25.5}
+        - {x: -30, y: 25.5}
+        - {x: -28, y: 29.5}
+        - {x: -28, y: 34.5}
+        - {x: -29, y: 35.5}
+      - - {x: -1, y: 36.5}
+        - {x: -17, y: 36.5}
+        - {x: -22, y: 35.5}
+        - {x: -24, y: 29.5}
+        - {x: -24, y: 27.5}
+        - {x: -21, y: 25.5}
+        - {x: -1, y: 25.5}
+        - {x: 1, y: 27.5}
+        - {x: 1, y: 35.5}
+      - - {x: 4, y: 36.5}
+        - {x: 4, y: 25.5}
+        - {x: 62, y: 25.5}
+        - {x: 64, y: 26.5}
+        - {x: 64, y: 34.5}
+        - {x: 62, y: 36.5}
+    - name: blossom_sprite_sheet_by_semijuggalo_165
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_166
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 70
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_167
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 69
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_168
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 70
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_169
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_170
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 69
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_171
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_172
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_173
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_174
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 71
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_175
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_176
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_177
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_178
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_179
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 72
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_180
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_181
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 73
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_182
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_184
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_185
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_186
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_187
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_188
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_189
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_190
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 32
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_191
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_192
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 33
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_193
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_194
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 57
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_195
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_196
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 57
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_197
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 57
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_198
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_199
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_200
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 57
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_201
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 57
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_202
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 57
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_203
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_204
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 59
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_205
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_206
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 29
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_207
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_208
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_209
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 32
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_210
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 23
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_211
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 23
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_212
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_213
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 31
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_214
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 26
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_215
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 26
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_216
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 26
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_217
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 26
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_218
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 26
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_219
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 26
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: blossom_sprite_sheet_by_semijuggalo_220
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 26
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

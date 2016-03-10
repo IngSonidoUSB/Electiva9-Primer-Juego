@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{847981F5-4EAF-55EB-3FA2-7A8610F345E8}") = "TesisKa", "Assembly-CSharp.csproj", "{361FD6B1-3746-6D8A-CCDC-6AF6553E0195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361FD6B1-3746-6D8A-CCDC-6AF6553E0195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361FD6B1-3746-6D8A-CCDC-6AF6553E0195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361FD6B1-3746-6D8A-CCDC-6AF6553E0195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361FD6B1-3746-6D8A-CCDC-6AF6553E0195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
