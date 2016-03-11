@@ -36,7 +36,10 @@ public class Puntaje : MonoBehaviour
         if (col.gameObject.tag == "Mariposa")
         {
             Value++;
-        }
+        } else if (col.gameObject.tag=="Coin"){
+			Destroy(col.gameObject);
+			Value --;
+		}
 
         if (col.gameObject.tag == "murcielago")
         {
@@ -44,5 +47,7 @@ public class Puntaje : MonoBehaviour
         }
     }
 
-
+	public int getValue(){
+		return Value;
+	}
 }
