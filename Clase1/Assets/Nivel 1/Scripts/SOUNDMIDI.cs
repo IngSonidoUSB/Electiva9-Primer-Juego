@@ -14,13 +14,13 @@ public class SOUNDMIDI : MonoBehaviour {
 	void Start () {
 		MidiBridge.instance.Warmup ();
 		//StartCoroutine (Song ());
+		StartCoroutine ("Song");
 
 	}
 
 	// Update is called once per frame
 	void Update () {
-		StartCoroutine ("Song");
-
+		
 	}
 
 
@@ -29,56 +29,32 @@ public class SOUNDMIDI : MonoBehaviour {
 	{
 
 		while (true) {
-			MidiOut.SendNoteOn (channel, 45, velocity);
-			MidiOut.SendNoteOn (channel, 57, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 45, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 45);
-			MidiOut.SendNoteOff (channel, 57);
-			MidiOut.SendNoteOn (channel, 59, velocity);
-			MidiOut.SendNoteOn (channel, 71, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 57, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 59);
-			MidiOut.SendNoteOff (channel, 71);
-			MidiOut.SendNoteOn (channel, 64, velocity);
-			MidiOut.SendNoteOn (channel, 76, velocity);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 45);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 57);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 59, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 71, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 64);
-			MidiOut.SendNoteOff (channel, 76);
-			MidiOut.SendNoteOn (channel, 48, velocity);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 59);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 71);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 64, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 76, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 48);
-			MidiOut.SendNoteOn (channel, 59, velocity);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 59);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 71);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 76, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 59);
-			MidiOut.SendNoteOn (channel, 64, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 76, velocity);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 76, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 64);
-			MidiOut.SendNoteOn (channel, 45, velocity);
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 71);
+			MidiOut.SendNoteOn (MidiChannel.Ch1, 76, velocity);
 			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 45);
-			MidiOut.SendNoteOn (channel, 59, velocity);
-			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 59);
-			MidiOut.SendNoteOn (channel, 64, velocity);
-			yield return new WaitForSeconds (0.25f);
-			MidiOut.SendNoteOff (channel, 64);
-
-			MidiOut.SendNoteOn (channel, 40, velocity);
-			yield return new WaitForSeconds (0.375f);
-			MidiOut.SendNoteOff (channel, 40);
-			MidiOut.SendNoteOn (channel, 64, velocity);
-			yield return new WaitForSeconds (0.375f);
-			MidiOut.SendNoteOff (channel, 64);
-			MidiOut.SendNoteOn (channel, 52, velocity);
-			yield return new WaitForSeconds (0.375f);
-			MidiOut.SendNoteOff (channel, 52);
-			MidiOut.SendNoteOn (channel, 55, velocity);
-			yield return new WaitForSeconds (0.375f);
-			MidiOut.SendNoteOff (channel, 55);
-			MidiOut.SendNoteOn (channel, 59, velocity);
-			yield return new WaitForSeconds (0.75f);
-			MidiOut.SendNoteOff (channel, 50);
-
+			MidiOut.SendNoteOff (MidiChannel.Ch1, 71);
+		
 		}
 	}
 }

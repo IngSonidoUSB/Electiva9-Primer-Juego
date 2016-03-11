@@ -6,7 +6,7 @@ public class spawn : MonoBehaviour {
 	public Transform MariposaPrefab;
 
 	private float nextMariposaTime = 5f;
-	private float spawnRate = 8f;
+	private float spawnRate = 5f;
 
 
 	// Update is called once per frame
