@@ -11,6 +11,10 @@ public class PlayerScript : MonoBehaviour {
 	private int Dir;
 	private Animator animator;
 	private Rigidbody rb;
+	private Vector3 posInicial;
+	//public Text vidasGatoText;
+	private int vidasGato =3;
+	private float scaleX, scaleZ;
 
 
 
@@ -19,6 +23,9 @@ public class PlayerScript : MonoBehaviour {
 		
 		animator = this.GetComponent<Animator> ();
 		rb = GetComponent<Rigidbody> ();
+		posInicial = new Vector3 (transform.localPosition.x, transform.localPosition.y, transform.localPosition.z);
+		scaleX = transform.localScale.x;
+		scaleZ = transform.localScale.z;
 
 	}
 	// Update is called once per frame
@@ -45,6 +52,21 @@ public class PlayerScript : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Piso") {
 			JumpFlag = true;
+		} else if (col.gameObject.tag == "Fuego" || col.gameObject.tag == "Enemigo") {
+			if (vidasGato >= 1) {
+				if (vidasGato == 1) {
+					vidasGato--;
+					//vidasGatoText.text = vidasGato.ToString ();
+					//Application.Quit();
+					//Destroy (this.gameObject);
+				}
+				vidasGato--;
+				transform.localPosition = posInicial;
+			} else {
+				//Application.Quit();
+				//Destroy (this.gameObject);
+
+			}
 		}
 	}
 
@@ -70,12 +92,12 @@ public class PlayerScript : MonoBehaviour {
 		if (CnInputManager.GetAxis("Horizontal") > 0)
 		{
 			Dir = 1;
-			transform.localScale =new Vector3(Dir*0.5f, 0.5f, 1);
+			transform.localScale =new Vector3(Dir*scaleX, scaleX, scaleZ);
 
 		}
 		if (CnInputManager.GetAxis("Horizontal") < 0){
 			Dir = -1;
-			transform.localScale =new Vector3(Dir*0.5f, 0.5f, 1);
+			transform.localScale =new Vector3(Dir*scaleX, scaleX, scaleZ);
 		}
 	}
 
@@ -97,7 +119,9 @@ public class PlayerScript : MonoBehaviour {
 		yield return new WaitForSeconds (0.5f);
 		animator.SetInteger ("Jump", 0);
 	}
-
+	 public int getVidasGato(){
+		return vidasGato;
+	}
 
 
 }

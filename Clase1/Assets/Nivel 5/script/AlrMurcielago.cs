@@ -5,7 +5,7 @@ public class AlrMurcielago : MonoBehaviour {
 
 	public Transform MurcielagoPrefab;
 
-	public float nextMurcielagoTime = 10f;
+	public float nextMurcielagoTime = 10;
 	private float spawnRate = 1.5f;
 
 	// Use this for initialization
@@ -20,8 +20,8 @@ public class AlrMurcielago : MonoBehaviour {
 			SpawnMurcielago();
 			nextMurcielagoTime = Time.time + spawnRate;
 
-			spawnRate *= 3f;
-			spawnRate = Mathf.Clamp(spawnRate, 1f, 2f);
+			spawnRate *= 10f;
+			spawnRate = Mathf.Clamp(spawnRate, 1f, 3.5f);
 		}
 	}
 
