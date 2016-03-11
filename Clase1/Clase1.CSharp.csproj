@@ -56,6 +56,12 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -160,14 +166,26 @@
     <Compile Include="Assets\Nivel 1\Scripts\Grupo_1.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\Mariposamov.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\Pajaromov.cs" />
+    <Compile Include="Assets\Nivel 1\Scripts\SOUNDMIDI.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\catcontrol.cs" />
+    <Compile Include="Assets\Nivel 1\Scripts\music.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\pajaromoviz.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\score.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\spawn.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\spawnpajaro.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\spawnpajaroiz.cs" />
     <Compile Include="Assets\Nivel 1\Scripts\tiempo.cs" />
-    <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
+    <Compile Include="Assets\Nivel 2\scripts\GameMaster.cs" />
+    <Compile Include="Assets\Nivel 2\scripts\PuntajeNivel2.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\Puntaje.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\alhunter.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\birdfly.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\birdmov.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\comportcat.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\comportdog.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\huntermove.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\mariposini.cs" />
+    <Compile Include="Assets\Nivel 3\Scripts\movimientomariposa.cs" />
     <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Dog.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Follow_Bird.cs" />
@@ -182,18 +200,22 @@
     <Compile Include="Assets\Nivel 5\script\AlrMariposa.cs" />
     <Compile Include="Assets\Nivel 5\script\AlrMurcielago.cs" />
     <Compile Include="Assets\Nivel 5\script\AlrPerro.cs" />
+    <Compile Include="Assets\Nivel 5\script\GAMEOVER.cs" />
     <Compile Include="Assets\Nivel 5\script\Grupo_5.cs" />
     <Compile Include="Assets\Nivel 5\script\MovCat.cs" />
     <Compile Include="Assets\Nivel 5\script\MovMariposa.cs" />
     <Compile Include="Assets\Nivel 5\script\MovMurcielago.cs" />
     <Compile Include="Assets\Nivel 5\script\MovPerro.cs" />
     <Compile Include="Assets\Nivel 5\script\choque.cs" />
+    <Compile Include="Assets\Nivel 5\script\fondo_c.cs" />
     <Compile Include="Assets\Nivel 5\script\gpared.cs" />
     <Compile Include="Assets\Nivel 5\script\gparelL.cs" />
     <Compile Include="Assets\Nivel 5\script\gpiso.cs" />
     <Compile Include="Assets\Nivel 5\script\puntaje.cs" />
     <Compile Include="Assets\Nivel 5\script\vidas.cs" />
     <Compile Include="Assets\Scripts\AnimationController.cs" />
+    <Compile Include="Assets\Scripts\DestroyScaleOut.cs" />
+    <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\Scripts\Gui.cs" />
     <Compile Include="Assets\Scripts\MariposaScript.cs" />
     <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
@@ -203,7 +225,7 @@
     <Compile Include="Assets\Scripts\Midibridge\MidiOut.cs" />
     <Compile Include="Assets\Scripts\PlayAudio.cs" />
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
-    <Compile Include="Assets\Scripts\Puntaje.cs" />
+    <Compile Include="Assets\Scripts\Puntaje1.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
   </ItemGroup>
   <ItemGroup>
