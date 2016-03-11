@@ -17,7 +17,7 @@ public class GameMaster : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		puntosJugador = gato.GetComponent<Puntaje>();
-		if (puntosJugador.getValue()>=500) {
+		if (puntosJugador.getValue()>=5) {
 			Application.LoadLevel("nivel3");
 		}
 		if (gato.GetComponent<PlayerScript>().getVidasGato()<=0) {

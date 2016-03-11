@@ -52,7 +52,7 @@ public class PlayerScript : MonoBehaviour {
 	{
 		if (col.gameObject.tag == "Piso") {
 			JumpFlag = true;
-		} else if (col.gameObject.tag == "fuego" || col.gameObject.tag == "enemy") {
+		} else if (col.gameObject.tag == "Fuego" || col.gameObject.tag == "Enemigo") {
 			if (vidasGato >= 1) {
 				if (vidasGato == 1) {
 					vidasGato--;
