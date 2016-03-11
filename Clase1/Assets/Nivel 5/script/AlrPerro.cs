@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent(typeof(AudioSource))]
 public class AlrPerro : MonoBehaviour {
-
+    public AudioClip lobowalk;
+    private AudioSource Sound;
     public Transform PerroPrefab;
 
     public float nextPerroTime = 10f;
@@ -11,7 +13,8 @@ public class AlrPerro : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-
+        Sound = GetComponent<AudioSource>();
+        Sound.clip = lobowalk;
     }
 
     // Update is called once per frame
@@ -24,6 +27,8 @@ public class AlrPerro : MonoBehaviour {
 
             spawnRate *= 5;
             spawnRate = Mathf.Clamp(spawnRate, 5f, 9f);
+            Sound.clip = lobowalk;
+            Sound.Play();
         }
     }
 

@@ -1,15 +1,22 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent(typeof(AudioSource))]
 public class vidas : MonoBehaviour
 {
     public int VIDAS = 3;
     public bool SeEstrello = false;
     private bool anterior=false;
+    public AudioClip levelout;
+    public AudioClip vidaout;
+    private AudioSource Sound;
     // Use this for initialization
 
     void Start()
     {
+        Sound = GetComponent<AudioSource>();
+        Sound.clip = levelout;
+        Sound.clip = vidaout;
     }
 
     void Update()
@@ -18,24 +25,32 @@ public class vidas : MonoBehaviour
 
         if (SeEstrello == true && anterior==false)
         {
+            
             VIDAS--;
 
             anterior = true;
+
             //SeEstrello = false;
             
             if (VIDAS == 2)
             {
                 Destroy(GameObject.FindWithTag("vida3"));
+                Sound.clip = vidaout;
+                Sound.Play();
 
             }
 
             if (VIDAS == 1)
             {
                 Destroy(GameObject.FindWithTag("vida2"));
+                Sound.clip = vidaout;
+                Sound.Play();
             }
             if (VIDAS == 0)
             {
                 Destroy(GameObject.FindWithTag("vida1"));
+                Sound.clip = levelout;
+                Sound.Play();
             }
         }
     }

@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(AudioSource))]
 public class puntaje : MonoBehaviour
 {
 	public bool loatrapo = false;
@@ -10,13 +11,17 @@ public class puntaje : MonoBehaviour
 	public Text Score;
 	public int Value = 0;
 
-	
-	void Start()
+    public AudioClip golpe;
+    private AudioSource Sound;
+
+
+    void Start()
 	{
-		
+        Sound = GetComponent<AudioSource>();
+        Sound.clip = golpe;
 
 
-	}
+    }
 
 	
 	void Update()
@@ -29,19 +34,19 @@ public class puntaje : MonoBehaviour
 		{
 			Value++;
 
-			//if (Value >= 10) {
-				//Sound.PlayOneShot(tigre,1);
-		//	} else {
-				//Sound.PlayOneShot (Cat,1);
-		//	}
+			
 		}
 		if (col.gameObject.tag == "murcielago")
 		{
 			Value--;
-			//Sound.PlayOneShot (CatA,1);
-			if (Value < 0) {
+            Sound.clip = golpe;
+            Sound.Play();
+            if (Value < 0) {
 				Value = 0;
 			}
+            if (Value == 15) {
+                print("winnnnn");
+            }
 		}
 	}
 }

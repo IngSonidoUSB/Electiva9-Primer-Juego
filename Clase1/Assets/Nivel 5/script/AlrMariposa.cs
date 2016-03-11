@@ -7,7 +7,7 @@ public class AlrMariposa : MonoBehaviour {
     public Transform MariposaPrefab;
    
     public float nextMariposaTime = 10f;
-    private float spawnRate = 1.5f;
+    private float spawnRate = 0.5f;
 
     // Use this for initialization
     void Start () {

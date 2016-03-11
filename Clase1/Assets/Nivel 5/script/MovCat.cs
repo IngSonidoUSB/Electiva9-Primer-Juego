@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 using CnControls;
-
-public class MovCat : MonoBehaviour {
+[RequireComponent(typeof(AudioSource))]
+public class MovCat : MonoBehaviour
+{
 
 
     //public Transform gato;
@@ -12,16 +13,22 @@ public class MovCat : MonoBehaviour {
     private int Dir;
     private Animator animator;
     private Rigidbody rb;
+    public AudioClip salto;
+    private AudioSource Sound;
     // Use this for initialization
-    void Start () {
+    void Start()
+    {
 
         animator = this.GetComponent<Animator>();
         rb = GetComponent<Rigidbody>();
+        Sound = GetComponent<AudioSource>();
+        Sound.clip = salto;
 
     }
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update()
+    {
 
         float moveInput = CnInputManager.GetAxis("Horizontal") * Time.deltaTime * 3;
 
@@ -32,8 +39,8 @@ public class MovCat : MonoBehaviour {
 
         if (CnInputManager.GetButtonDown("Jump") && JumpFlag)
         {
-            
-            rb.AddForce(new Vector3(0,340,0));
+
+            rb.AddForce(new Vector3(0, 340, 0));
 
         }
 
@@ -54,7 +61,8 @@ public class MovCat : MonoBehaviour {
             JumpFlag = false;
             if (!CnInputManager.GetButtonDown("Jump"))
             {
-
+                Sound.clip = salto;
+                Sound.Play();
 
             }
         }
@@ -113,4 +121,5 @@ public class MovCat : MonoBehaviour {
 
 
 }
+
 
