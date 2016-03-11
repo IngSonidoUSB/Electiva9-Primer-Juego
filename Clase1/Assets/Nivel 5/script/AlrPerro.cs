@@ -26,7 +26,7 @@ public class AlrPerro : MonoBehaviour {
             nextPerroTime = Time.time + spawnRate;
 
             spawnRate *= 5;
-            spawnRate = Mathf.Clamp(spawnRate, 5f, 9f);
+            spawnRate = Mathf.Clamp(spawnRate, 4f, 9f);
             Sound.clip = lobowalk;
             Sound.Play();
         }

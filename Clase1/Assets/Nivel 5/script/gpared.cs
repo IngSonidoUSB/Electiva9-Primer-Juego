@@ -15,11 +15,12 @@ public class gpared : MonoBehaviour {
 
     void OnTriggerEnter(Collider col)
     {
-        if (col.gameObject.tag == "murcielago")
+        if (col.gameObject.tag == "murcielago" || col.gameObject.tag == "mariposa")
         {
             //print ("Works");
             Destroy(col.gameObject);
         }
     }
 
+  
 }

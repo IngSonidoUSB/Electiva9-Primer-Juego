@@ -5,18 +5,13 @@ using UnityEngine.UI;
 public class MovMariposa : MonoBehaviour
 {
     public float addxPos;
-    public float CurveSpeed = 0.5f ;
-    private float incre = 1f;
-    private bool posicion=false;
-    float fTime = 0;
-    Vector3 vLastPos = Vector3.zero;
-    float fallSpeed = 3 * Time.deltaTime;
+    float fallSpeed = 2 * Time.deltaTime;
 
     // Use this for initialization
     void Start()
     {
 
-        posicion = true;
+
 
     }
 
@@ -24,14 +19,10 @@ public class MovMariposa : MonoBehaviour
     void Update()
     {
 
-        transform.position -= new Vector3(0, fallSpeed, 0);
+        addxPos = 0.05f*Mathf.Sin((16* (0.3f*Time.time)));
 
-        // incre = incre + 1f;
-        //posicion = true;
-
-        derecha();
-        transform.position -= new Vector3(0,(0.1f*Time.deltaTime), 0);
-
+        transform.position =transform.position - new Vector3(addxPos, fallSpeed, 0);
+        
     }
 
 
@@ -44,29 +35,5 @@ public class MovMariposa : MonoBehaviour
         }
     }
 
-    void derecha()
-    {
-        if (posicion == false)
-        {
-
-            vLastPos = transform.position;
-
-            fTime += Time.deltaTime * CurveSpeed;
-
-            Vector3 vSin = new Vector3(1f, 0, 0)*fTime;
-            transform.position -= (vSin) * Time.deltaTime;
-            posicion = true;
-
-        }
-        else if (posicion ==true) {
-            vLastPos = transform.position;
-
-            fTime += Time.deltaTime * CurveSpeed;
-            Vector3 vSin = new Vector3(1f, 0, 0)*fTime;
-            transform.position += (vSin) * Time.deltaTime;
-            posicion = false;
-        }
-
-    }
-
+  
 }

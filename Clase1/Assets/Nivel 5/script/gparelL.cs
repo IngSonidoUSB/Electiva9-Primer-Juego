@@ -15,7 +15,7 @@ public class gparelL : MonoBehaviour {
 
     void OnTriggerEnter(Collider col)
     {
-        if (col.gameObject.tag == "perro")
+        if (col.gameObject.tag == "perro" || col.gameObject.tag == "mariposa")
         {
             //print ("Works");
             Destroy(col.gameObject);
