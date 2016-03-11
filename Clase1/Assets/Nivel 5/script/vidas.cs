@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(AudioSource))]
 public class vidas : MonoBehaviour
@@ -10,6 +11,9 @@ public class vidas : MonoBehaviour
     public AudioClip levelout;
     public AudioClip vidaout;
     private AudioSource Sound;
+    public Text GameOver;
+    
+    
     // Use this for initialization
 
     void Start()
@@ -51,6 +55,8 @@ public class vidas : MonoBehaviour
                 Destroy(GameObject.FindWithTag("vida1"));
                 Sound.clip = levelout;
                 Sound.Play();
+
+                GameOver.text = "GAME OVER";
             }
         }
     }
