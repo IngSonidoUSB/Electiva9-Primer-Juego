@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using CnControls;
+using UnityEngine.UI;
 
 public class PlayerScript : MonoBehaviour {
 
@@ -12,7 +13,7 @@ public class PlayerScript : MonoBehaviour {
 	private Animator animator;
 	private Rigidbody rb;
 	private Vector3 posInicial;
-	//public Text vidasGatoText;
+	public Text vidasGatoText;
 	private int vidasGato =3;
 	private float scaleX, scaleZ;
 
@@ -56,7 +57,7 @@ public class PlayerScript : MonoBehaviour {
 			if (vidasGato >= 1) {
 				if (vidasGato == 1) {
 					vidasGato--;
-					//vidasGatoText.text = vidasGato.ToString ();
+					vidasGatoText.text = vidasGato.ToString ();
 					//Application.Quit();
 					//Destroy (this.gameObject);
 				}
@@ -84,6 +85,11 @@ public class PlayerScript : MonoBehaviour {
 	void OnTriggerEnter(Collider col)
 	{
 		if (col.gameObject.tag == "Mariposa") {
+			//print ("Works");
+			Destroy (col.gameObject);
+		}
+		
+		if (col.gameObject.tag == "Coin") {
 			//print ("Works");
 			Destroy (col.gameObject);
 		}
