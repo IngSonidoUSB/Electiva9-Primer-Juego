@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Nivel 5/nivel 5.unity
+- path: Assets/Nivel 3/nivel 3 chente.unity
   isLoaded: 1
   isActive: 1
