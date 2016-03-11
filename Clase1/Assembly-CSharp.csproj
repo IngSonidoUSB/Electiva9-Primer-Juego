@@ -38,10 +38,10 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -135,6 +135,7 @@
      <Compile Include="Assets\Nivel 1\Scripts\Grupo_1.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\Mariposamov.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\Pajaromov.cs" />
+     <Compile Include="Assets\Nivel 1\Scripts\SOUNDMIDI.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\catcontrol.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\pajaromoviz.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\score.cs" />
@@ -142,6 +143,7 @@
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaro.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\spawnpajaroiz.cs" />
      <Compile Include="Assets\Nivel 1\Scripts\tiempo.cs" />
+<<<<<<< Updated upstream
      <Compile Include="Assets\Nivel 2\Grupo_2.cs" />
 <<<<<<< HEAD
      <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
@@ -156,6 +158,9 @@
      <Compile Include="Assets\Nivel 3\Scripts\mariposini.cs" />
      <Compile Include="Assets\Nivel 3\Scripts\movimientomariposa.cs" />
 >>>>>>> 26ccbf053db9745d1e0bc6585371cd7712b9ce65
+=======
+     <Compile Include="Assets\Nivel 3\Grupo_3.cs" />
+>>>>>>> Stashed changes
      <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
      <Compile Include="Assets\Nivel 4\Scripts\Dog.cs" />
      <Compile Include="Assets\Nivel 4\Scripts\Follow_Bird.cs" />
@@ -182,9 +187,12 @@
      <Compile Include="Assets\Nivel 5\script\puntaje.cs" />
      <Compile Include="Assets\Nivel 5\script\vidas.cs" />
      <Compile Include="Assets\Scripts\AnimationController.cs" />
+<<<<<<< Updated upstream
      <Compile Include="Assets\Scripts\DestroyScaleOut.cs" />
      <Compile Include="Assets\Scripts\EnemyScript.cs" />
      <Compile Include="Assets\Scripts\GameMaster.cs" />
+=======
+>>>>>>> Stashed changes
      <Compile Include="Assets\Scripts\Gui.cs" />
      <Compile Include="Assets\Scripts\MariposaScript.cs" />
      <Compile Include="Assets\Scripts\MariposaSpawner.cs" />
@@ -207,6 +215,7 @@
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
@@ -226,9 +235,16 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
 >>>>>>> 26ccbf053db9745d1e0bc6585371cd7712b9ce65
- </Reference>
+=======
  <Reference Include="UnityEngine.UI">
- <HintPath>/Volumes/Miguel Bern/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+>>>>>>> Stashed changes
+ </Reference>
+ <Reference Include="NGUI">
+ <HintPath>/Users/demianalvearlopuzzo/Documents/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
  <HintPath>/Users/miguelalejandrobernalosorio/Documents/UNIVERSIDAD/9 semestre/VideoJuegos/Entrega video JUEGO 1/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
