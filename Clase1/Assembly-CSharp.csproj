@@ -38,10 +38,10 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+      <HintPath>/Applications/Programación/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -155,17 +155,6 @@
      <Compile Include="Assets\Nivel 3\Scripts\huntermove.cs" />
      <Compile Include="Assets\Nivel 3\Scripts\mariposini.cs" />
      <Compile Include="Assets\Nivel 3\Scripts\movimientomariposa.cs" />
-     <Compile Include="Assets\Nivel 4\Grupo_4.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Dog.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Follow_Bird.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Gato.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Mariposa_Fall.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Mars.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Pared_Teleport.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Spawn.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Spawn_Pajaro.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Spawn_Perro.cs" />
-     <Compile Include="Assets\Nivel 4\Scripts\Spawner_Gato.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMariposa.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrMurcielago.cs" />
      <Compile Include="Assets\Nivel 5\script\AlrPerro.cs" />
@@ -208,13 +197,13 @@
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\ReadMe.txt" />
      <None Include="Assets\Mobile-Cartoony\ThirdParty\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
  <Reference Include="UnityEngine.UI">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>/Applications/Programación/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="NGUI">
- <HintPath>/Users/demianalvearlopuzzo/Documents/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
+ <HintPath>/Users/AlexRamirez/Desktop/Electiva9-Primer-Juego/Clase1/Assets/Mobile-Cartoony/ThirdParty/NGUI/DLLs/NGUI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
