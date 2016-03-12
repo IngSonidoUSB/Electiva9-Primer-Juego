@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: bb9933ee8420f4246a2c9a8e222b7487
+timeCreated: 1457390365
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pajaro_0
+    21300002: Pajaro_1
+    21300004: Pajaro_2
+    21300006: Pajaro_3
+    21300008: Pajaro_4
+    21300010: Pajaro_5
+    21300012: Pajaro_6
+    21300014: Pajaro_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pajaro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 94
+        height: 70
+      alignment: 9
+      pivot: {x: 0.26972947, y: 0.64233965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.64543, y: 25.036224}
+        - {x: 26.64543, y: 25.036224}
+        - {x: -7.3545704, y: 11.036224}
+        - {x: -25.35457, y: -12.963776}
+        - {x: -25.35457, y: -33.963776}
+        - {x: 2.6454296, y: -44.963776}
+        - {x: 68.64543, y: -44.963776}
+        - {x: 68.64543, y: -14.963776}
+        - {x: 63.64543, y: 18.036224}
+      - - {x: 65.64543, y: -18.963776}
+        - {x: 67.64543, y: -20.963776}
+        - {x: 68.64543, y: -20.963776}
+        - {x: 68.64543, y: -14.963776}
+        - {x: 65.64543, y: -15.963776}
+    - name: Pajaro_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 229
+        width: 99
+        height: 63
+      alignment: 9
+      pivot: {x: 0.25359538, y: 0.71269155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.105942, y: 18.100433}
+        - {x: -25.105942, y: 0.10043335}
+        - {x: -25.105942, y: -19.899567}
+        - {x: 6.894058, y: -44.899567}
+        - {x: 69.89406, y: -44.899567}
+        - {x: 69.89406, y: 18.100433}
+      - - {x: 69.89406, y: -6.8995667}
+        - {x: 69.89406, y: -9.899567}
+        - {x: 71.89406, y: -11.899567}
+        - {x: 73.89406, y: -11.899567}
+        - {x: 73.89406, y: -6.8995667}
+        - {x: 72.89406, y: -5.8995667}
+    - name: Pajaro_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 218
+        width: 92
+        height: 58
+      alignment: 9
+      pivot: {x: 0.26845816, y: 0.9561299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.6981506, y: 2.544464}
+        - {x: -24.69815, y: -11.455536}
+        - {x: -24.69815, y: -19.455536}
+        - {x: 23.30185, y: -50.455536}
+        - {x: 43.30185, y: -55.455536}
+        - {x: 60.30185, y: -55.455536}
+        - {x: 67.30185, y: -48.455536}
+        - {x: 67.30185, y: -24.455536}
+        - {x: 12.301849, y: 2.544464}
+    - name: Pajaro_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 93
+        height: 73
+      alignment: 9
+      pivot: {x: 0.2746422, y: 0.961242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.458275, y: 2.8293304}
+        - {x: -24.541725, y: 2.8293304}
+        - {x: -25.541725, y: 1.8293304}
+        - {x: -25.541725, y: -23.17067}
+        - {x: 9.458275, y: -70.17067}
+        - {x: 58.458275, y: -70.17067}
+        - {x: 67.458275, y: -51.17067}
+        - {x: 67.458275, y: -22.17067}
+        - {x: 24.458275, y: 1.8293304}
+    - name: Pajaro_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 92
+        height: 77
+      alignment: 9
+      pivot: {x: 0.26472357, y: 0.96851575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.3545685, y: 2.424286}
+        - {x: -24.354568, y: -3.575714}
+        - {x: -24.354568, y: -46.575714}
+        - {x: -17.354568, y: -66.575714}
+        - {x: -11.3545685, y: -74.575714}
+        - {x: 38.64543, y: -74.575714}
+        - {x: 59.64543, y: -65.575714}
+        - {x: 67.64543, y: -51.575714}
+        - {x: 67.64543, y: -22.575714}
+        - {x: 16.645432, y: 2.424286}
+    - name: Pajaro_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 103
+        width: 93
+        height: 73
+      alignment: 9
+      pivot: {x: 0.26725325, y: 0.96594846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.854553, y: 2.4857635}
+        - {x: -24.854553, y: -5.5142365}
+        - {x: -24.854553, y: -47.514236}
+        - {x: 17.145447, y: -70.51424}
+        - {x: 68.14545, y: -70.51424}
+        - {x: 68.14545, y: -16.514236}
+        - {x: 30.145447, y: 2.4857635}
+    - name: Pajaro_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 92
+        height: 57
+      alignment: 9
+      pivot: {x: 0.26845813, y: 0.9701597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.301853, y: 1.7008972}
+        - {x: -7.698147, y: 1.7008972}
+        - {x: -24.698147, y: -13.299103}
+        - {x: -24.698147, y: -38.299103}
+        - {x: 16.301853, y: -55.299103}
+        - {x: 67.30185, y: -55.299103}
+        - {x: 67.30185, y: -27.299103}
+        - {x: 47.301853, y: -3.2991028}
+    - name: Pajaro_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.26725343, y: 0.69633037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.14543, y: 19.131187}
+        - {x: 22.145432, y: 13.131187}
+        - {x: -12.8545685, y: 0.13118744}
+        - {x: -24.854568, y: -11.868813}
+        - {x: -24.854568, y: -18.868813}
+        - {x: 9.1454315, y: -39.868813}
+        - {x: 44.14543, y: -43.868813}
+        - {x: 68.14543, y: -43.868813}
+        - {x: 68.14543, y: 14.131187}
+        - {x: 66.14543, y: 19.131187}
+      - - {x: -17.854568, y: -24.868813}
+        - {x: -15.8545685, y: -26.868813}
+        - {x: -12.8545685, y: -25.868813}
+        - {x: -12.8545685, y: -22.868813}
+        - {x: -14.8545685, y: -20.868813}
+        - {x: -17.854568, y: -21.868813}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
