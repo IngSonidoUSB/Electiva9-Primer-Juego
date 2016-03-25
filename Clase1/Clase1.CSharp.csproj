@@ -65,12 +65,6 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
     <Reference Include="NGUI">
       <HintPath>Assets\Mobile-Cartoony\ThirdParty\NGUI\DLLs\NGUI.dll</HintPath>
     </Reference>
@@ -193,10 +187,11 @@
     <Compile Include="Assets\Nivel 4\Scripts\Mariposa_Fall.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Mars.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Pared_Teleport.cs" />
+    <Compile Include="Assets\Nivel 4\Scripts\Puntaje_Score.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Spawn.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Spawn_Pajaro.cs" />
     <Compile Include="Assets\Nivel 4\Scripts\Spawn_Perro.cs" />
-    <Compile Include="Assets\Nivel 4\Scripts\Spawner_Gato.cs" />
+    <Compile Include="Assets\Nivel 4\Scripts\TIMER.cs" />
     <Compile Include="Assets\Nivel 5\script\AlrMariposa.cs" />
     <Compile Include="Assets\Nivel 5\script\AlrMurcielago.cs" />
     <Compile Include="Assets\Nivel 5\script\AlrPerro.cs" />
